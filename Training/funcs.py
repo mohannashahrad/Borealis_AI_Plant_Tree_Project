@@ -10,6 +10,14 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.compose import ColumnTransformer    
 import matplotlib.pyplot as plt
 from sklearn import metrics
+from datetime import datetime
+from darts import TimeSeries as ts
+from darts.models import Prophet
+
+
+TIME_COL = 'Time'
+COUNTRY_COL = "Country_name"
+PRED_COUNT = 10
 
 def load_DF(url):
   data = StringIO(requests.get(url).text)
@@ -44,3 +52,13 @@ def compare_results(y_pred, y_test):
   compare_df['error'] = ((compare_df['Actual']-compare_df['Predicted'])/compare_df['Actual']).abs()
   compare_df.sort_values(by=['error'], ascending = False, inplace = True)
   display(compare_df.head(60))
+
+
+def predict(df, country, col):
+  df = df.loc[country, [TIME_COL, col]]
+  df[TIME_COL] = pd.to_datetime(df[TIME_COL], format = '%Y')
+  series = ts.from_dataframe(df)
+  model = Prophet()
+  model.fit(series)
+  forecast = model.predict(PRED_COUNT)
+  return ts.pd_dataframe(forecast)
