@@ -8,6 +8,8 @@ import numpy as np
 from sklearn.preprocessing import OneHotEncoder
 from sklearn.preprocessing import StandardScaler
 from sklearn.compose import ColumnTransformer    
+import matplotlib.pyplot as plt
+from sklearn import metrics
 
 def load_DF(url):
   data = StringIO(requests.get(url).text)
@@ -29,3 +31,16 @@ def oneHotEncode(df, discrete_columns):
     df = df.join(enc_df)
     df = df.drop([var], axis=1)
   return df
+
+def print_analysis(y_pred, y_test):
+  print('Mean Absolute Error:', metrics.mean_absolute_error(y_test, y_pred))  
+  print('Mean Squared Error:', metrics.mean_squared_error(y_test, y_pred))  
+  print('Root Mean Squared Error:', np.sqrt(metrics.mean_squared_error(y_test, y_pred)))
+  print('R2 score:', np.sqrt(metrics.r2_score(y_pred,y_test)))
+
+
+def compare_results(y_pred, y_test):
+  compare_df = pd.DataFrame({'Actual': y_test.to_numpy().flatten(), 'Predicted': y_pred.flatten()})
+  compare_df['error'] = ((compare_df['Actual']-compare_df['Predicted'])/compare_df['Actual']).abs()
+  compare_df.sort_values(by=['error'], ascending = False, inplace = True)
+  display(compare_df.head(60))
