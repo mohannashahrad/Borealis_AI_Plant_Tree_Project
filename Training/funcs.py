@@ -17,7 +17,7 @@ from darts.models import Prophet
 
 TIME_COL = 'Time'
 COUNTRY_COL = "Country_name"
-PRED_COUNT = 10
+PRED_COUNT = 5
 
 def load_DF(url):
   data = StringIO(requests.get(url).text)
@@ -53,12 +53,19 @@ def compare_results(y_pred, y_test):
   compare_df.sort_values(by=['error'], ascending = False, inplace = True)
   display(compare_df.head(60))
 
-
-def predict(df, country, col):
-  df = df.loc[country, [TIME_COL, col]]
+# predicts a specific feature (col) for a country given the df and the name of the country col
+def predict_col(df, time_col, country_col, country, col):
+  df = df.loc[df[country_col] == country, [TIME_COL, col]]
   df[TIME_COL] = pd.to_datetime(df[TIME_COL], format = '%Y')
-  series = ts.from_dataframe(df)
+  series = ts.from_dataframe(df, time_col = time_col)
   model = Prophet()
   model.fit(series)
   forecast = model.predict(PRED_COUNT)
   return ts.pd_dataframe(forecast)
+
+def predict(df, time_col, country_col, country, cols):
+  merged_df = predict_col(df, time_col, country_col, country, cols[0])
+  cols.pop(0)
+  for feature in cols:
+    merged_df = pd.concat([merged_df, predict_col(df, time_col, country_col, country, feature)], axis=1)
+  return merged_df
