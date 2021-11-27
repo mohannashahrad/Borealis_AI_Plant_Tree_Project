@@ -17,7 +17,7 @@ from darts.models import Prophet
 
 TIME_COL = 'Time'
 COUNTRY_COL = "Country_name"
-PRED_COUNT = 5
+PRED_COUNT = 10
 
 def load_DF(url):
   data = StringIO(requests.get(url).text)
@@ -62,10 +62,3 @@ def predict_col(df, time_col, country_col, country, col):
   model.fit(series)
   forecast = model.predict(PRED_COUNT)
   return ts.pd_dataframe(forecast)
-
-def predict(df, time_col, country_col, country, cols):
-  merged_df = predict_col(df, time_col, country_col, country, cols[0])
-  cols.pop(0)
-  for feature in cols:
-    merged_df = pd.concat([merged_df, predict_col(df, time_col, country_col, country, feature)], axis=1)
-  return merged_df
