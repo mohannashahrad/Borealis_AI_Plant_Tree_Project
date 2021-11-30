@@ -1,0 +1,2481 @@
+time,Oil Rents (% GDP),Country
+2021-01-01,-0.009916738,Afghanistan
+2022-01-01,-0.003917027,Afghanistan
+2023-01-01,0.00257011,Afghanistan
+2024-01-01,0.009535076,Afghanistan
+2025-01-01,-0.015641495,Afghanistan
+2026-01-01,-0.009641784,Afghanistan
+2027-01-01,-0.003154647,Afghanistan
+2028-01-01,0.00381032,Afghanistan
+2029-01-01,-0.021366251,Afghanistan
+2030-01-01,-0.01536654,Afghanistan
+2021-01-01,3.011848639,Africa Eastern and Southern
+2022-01-01,3.345654393,Africa Eastern and Southern
+2023-01-01,3.687493315,Africa Eastern and Southern
+2024-01-01,4.036877329,Africa Eastern and Southern
+2025-01-01,2.76717234,Africa Eastern and Southern
+2026-01-01,3.100978094,Africa Eastern and Southern
+2027-01-01,3.442817016,Africa Eastern and Southern
+2028-01-01,3.79220103,Africa Eastern and Southern
+2029-01-01,2.522496041,Africa Eastern and Southern
+2030-01-01,2.856301795,Africa Eastern and Southern
+2021-01-01,5.594918833,Africa Western and Central
+2022-01-01,5.654929131,Africa Western and Central
+2023-01-01,5.7176166,Africa Western and Central
+2024-01-01,5.782527261,Africa Western and Central
+2025-01-01,4.342918372,Africa Western and Central
+2026-01-01,4.40292867,Africa Western and Central
+2027-01-01,4.465616139,Africa Western and Central
+2028-01-01,4.5305268,Africa Western and Central
+2029-01-01,3.090917911,Africa Western and Central
+2030-01-01,3.150928209,Africa Western and Central
+2021-01-01,2.066638537,Albania
+2022-01-01,2.182235408,Albania
+2023-01-01,2.295001463,Albania
+2024-01-01,2.404884669,Albania
+2025-01-01,2.344411931,Albania
+2026-01-01,2.460008802,Albania
+2027-01-01,2.572774857,Albania
+2028-01-01,2.682658063,Albania
+2029-01-01,2.622185324,Albania
+2030-01-01,2.737782196,Albania
+2021-01-01,14.10251173,Algeria
+2022-01-01,14.16451414,Algeria
+2023-01-01,14.19065513,Algeria
+2024-01-01,14.18021269,Algeria
+2025-01-01,11.81367853,Algeria
+2026-01-01,11.87568095,Algeria
+2027-01-01,11.90182193,Algeria
+2028-01-01,11.8913795,Algeria
+2029-01-01,9.524845337,Algeria
+2030-01-01,9.586847753,Algeria
+2021-01-01,0,American Samoa
+2022-01-01,0,American Samoa
+2023-01-01,0,American Samoa
+2024-01-01,0,American Samoa
+2025-01-01,0,American Samoa
+2026-01-01,0,American Samoa
+2027-01-01,0,American Samoa
+2028-01-01,0,American Samoa
+2029-01-01,0,American Samoa
+2030-01-01,0,American Samoa
+2021-01-01,17.15648916,Angola
+2022-01-01,17.0622492,Angola
+2023-01-01,17.03520667,Angola
+2024-01-01,17.07397385,Angola
+2025-01-01,12.4373516,Angola
+2026-01-01,12.34311165,Angola
+2027-01-01,12.31606911,Angola
+2028-01-01,12.35483629,Angola
+2029-01-01,7.71821405,Angola
+2030-01-01,7.623974092,Angola
+2021-01-01,0,Antigua and Barbuda
+2022-01-01,0,Antigua and Barbuda
+2023-01-01,0,Antigua and Barbuda
+2024-01-01,0,Antigua and Barbuda
+2025-01-01,0,Antigua and Barbuda
+2026-01-01,0,Antigua and Barbuda
+2027-01-01,0,Antigua and Barbuda
+2028-01-01,0,Antigua and Barbuda
+2029-01-01,0,Antigua and Barbuda
+2030-01-01,0,Antigua and Barbuda
+2021-01-01,19.3781008,Arab World
+2022-01-01,19.68781087,Arab World
+2023-01-01,19.99870459,Arab World
+2024-01-01,20.30983479,Arab World
+2025-01-01,17.47769219,Arab World
+2026-01-01,17.78740225,Arab World
+2027-01-01,18.09829597,Arab World
+2028-01-01,18.40942618,Arab World
+2029-01-01,15.57728357,Arab World
+2030-01-01,15.88699364,Arab World
+2021-01-01,0.192353357,Argentina
+2022-01-01,0.210322874,Argentina
+2023-01-01,0.200591225,Argentina
+2024-01-01,0.162928326,Argentina
+2025-01-01,-0.610884409,Argentina
+2026-01-01,-0.592914893,Argentina
+2027-01-01,-0.602646542,Argentina
+2028-01-01,-0.640309441,Argentina
+2029-01-01,-1.414122176,Argentina
+2030-01-01,-1.39615266,Argentina
+2021-01-01,0,Armenia
+2022-01-01,0,Armenia
+2023-01-01,0,Armenia
+2024-01-01,0,Armenia
+2025-01-01,0,Armenia
+2026-01-01,0,Armenia
+2027-01-01,0,Armenia
+2028-01-01,0,Armenia
+2029-01-01,0,Armenia
+2030-01-01,0,Armenia
+2021-01-01,0,Aruba
+2022-01-01,0,Aruba
+2023-01-01,0,Aruba
+2024-01-01,0,Aruba
+2025-01-01,0,Aruba
+2026-01-01,0,Aruba
+2027-01-01,0,Aruba
+2028-01-01,0,Aruba
+2029-01-01,0,Aruba
+2030-01-01,0,Aruba
+2021-01-01,0.187401486,Australia
+2022-01-01,0.16023327,Australia
+2023-01-01,0.129472315,Australia
+2024-01-01,0.095106772,Australia
+2025-01-01,0.023982987,Australia
+2026-01-01,-0.00318523,Australia
+2027-01-01,-0.033946185,Australia
+2028-01-01,-0.068311727,Australia
+2029-01-01,-0.139435513,Australia
+2030-01-01,-0.16660373,Australia
+2021-01-01,0.047557924,Austria
+2022-01-01,0.049649401,Austria
+2023-01-01,0.051666739,Austria
+2024-01-01,0.053607194,Austria
+2025-01-01,0.046539867,Austria
+2026-01-01,0.048631345,Austria
+2027-01-01,0.050648682,Austria
+2028-01-01,0.052589137,Austria
+2029-01-01,0.045521811,Austria
+2030-01-01,0.047613288,Austria
+2021-01-01,18.54172501,Azerbaijan
+2022-01-01,18.39093823,Azerbaijan
+2023-01-01,18.14129785,Azerbaijan
+2024-01-01,17.79237393,Azerbaijan
+2025-01-01,16.08733164,Azerbaijan
+2026-01-01,15.93654486,Azerbaijan
+2027-01-01,15.68690449,Azerbaijan
+2028-01-01,15.33798056,Azerbaijan
+2029-01-01,13.63293827,Azerbaijan
+2030-01-01,13.4821515,Azerbaijan
+2021-01-01,0,"Bahamas, The"
+2022-01-01,0,"Bahamas, The"
+2023-01-01,0,"Bahamas, The"
+2024-01-01,0,"Bahamas, The"
+2025-01-01,0,"Bahamas, The"
+2026-01-01,0,"Bahamas, The"
+2027-01-01,0,"Bahamas, The"
+2028-01-01,0,"Bahamas, The"
+2029-01-01,0,"Bahamas, The"
+2030-01-01,0,"Bahamas, The"
+2021-01-01,2.765885886,Bahrain
+2022-01-01,2.746339366,Bahrain
+2023-01-01,2.728973848,Bahrain
+2024-01-01,2.713751651,Bahrain
+2025-01-01,2.566996226,Bahrain
+2026-01-01,2.547449705,Bahrain
+2027-01-01,2.530084188,Bahrain
+2028-01-01,2.51486199,Bahrain
+2029-01-01,2.368106565,Bahrain
+2030-01-01,2.348560045,Bahrain
+2021-01-01,0.026827424,Bangladesh
+2022-01-01,0.036908727,Bangladesh
+2023-01-01,0.047233499,Bangladesh
+2024-01-01,0.057784578,Bangladesh
+2025-01-01,0.011584628,Bangladesh
+2026-01-01,0.021665931,Bangladesh
+2027-01-01,0.031990703,Bangladesh
+2028-01-01,0.042541782,Bangladesh
+2029-01-01,-0.003658168,Bangladesh
+2030-01-01,0.006423135,Bangladesh
+2021-01-01,0.30897751,Barbados
+2022-01-01,0.317782413,Barbados
+2023-01-01,0.326427515,Barbados
+2024-01-01,0.334902412,Barbados
+2025-01-01,0.308926428,Barbados
+2026-01-01,0.317731332,Barbados
+2027-01-01,0.326376434,Barbados
+2028-01-01,0.33485133,Barbados
+2029-01-01,0.308875346,Barbados
+2030-01-01,0.31768025,Barbados
+2021-01-01,0.405740626,Belarus
+2022-01-01,0.393805767,Belarus
+2023-01-01,0.378980979,Belarus
+2024-01-01,0.361231737,Belarus
+2025-01-01,0.233418621,Belarus
+2026-01-01,0.221483762,Belarus
+2027-01-01,0.206658974,Belarus
+2028-01-01,0.188909732,Belarus
+2029-01-01,0.061096616,Belarus
+2030-01-01,0.049161756,Belarus
+2021-01-01,0,Belgium
+2022-01-01,0,Belgium
+2023-01-01,0,Belgium
+2024-01-01,0,Belgium
+2025-01-01,0,Belgium
+2026-01-01,0,Belgium
+2027-01-01,0,Belgium
+2028-01-01,0,Belgium
+2029-01-01,0,Belgium
+2030-01-01,0,Belgium
+2021-01-01,2.183253426,Belize
+2022-01-01,2.609122472,Belize
+2023-01-01,3.029685699,Belize
+2024-01-01,3.444486712,Belize
+2025-01-01,2.364043291,Belize
+2026-01-01,2.789912337,Belize
+2027-01-01,3.210475564,Belize
+2028-01-01,3.625276577,Belize
+2029-01-01,2.544833156,Belize
+2030-01-01,2.970702201,Belize
+2021-01-01,0.079307217,Benin
+2022-01-01,0.074964014,Benin
+2023-01-01,0.070359024,Benin
+2024-01-01,0.06550158,Benin
+2025-01-01,0.0915939,Benin
+2026-01-01,0.087250698,Benin
+2027-01-01,0.082645708,Benin
+2028-01-01,0.077788263,Benin
+2029-01-01,0.103880584,Benin
+2030-01-01,0.099537381,Benin
+2021-01-01,0,Bermuda
+2022-01-01,0,Bermuda
+2023-01-01,0,Bermuda
+2024-01-01,0,Bermuda
+2025-01-01,0,Bermuda
+2026-01-01,0,Bermuda
+2027-01-01,0,Bermuda
+2028-01-01,0,Bermuda
+2029-01-01,0,Bermuda
+2030-01-01,0,Bermuda
+2021-01-01,0,Bhutan
+2022-01-01,0,Bhutan
+2023-01-01,0,Bhutan
+2024-01-01,0,Bhutan
+2025-01-01,0,Bhutan
+2026-01-01,0,Bhutan
+2027-01-01,0,Bhutan
+2028-01-01,0,Bhutan
+2029-01-01,0,Bhutan
+2030-01-01,0,Bhutan
+2021-01-01,1.496532829,Bolivia
+2022-01-01,1.474708156,Bolivia
+2023-01-01,1.452149007,Bolivia
+2024-01-01,1.428692836,Bolivia
+2025-01-01,0.867812879,Bolivia
+2026-01-01,0.845988206,Bolivia
+2027-01-01,0.823429056,Bolivia
+2028-01-01,0.799972885,Bolivia
+2029-01-01,0.239092929,Bolivia
+2030-01-01,0.217268255,Bolivia
+2021-01-01,0,Bosnia and Herzegovina
+2022-01-01,0,Bosnia and Herzegovina
+2023-01-01,0,Bosnia and Herzegovina
+2024-01-01,0,Bosnia and Herzegovina
+2025-01-01,0,Bosnia and Herzegovina
+2026-01-01,0,Bosnia and Herzegovina
+2027-01-01,0,Bosnia and Herzegovina
+2028-01-01,0,Bosnia and Herzegovina
+2029-01-01,0,Bosnia and Herzegovina
+2030-01-01,0,Bosnia and Herzegovina
+2021-01-01,0,Botswana
+2022-01-01,0,Botswana
+2023-01-01,0,Botswana
+2024-01-01,0,Botswana
+2025-01-01,0,Botswana
+2026-01-01,0,Botswana
+2027-01-01,0,Botswana
+2028-01-01,0,Botswana
+2029-01-01,0,Botswana
+2030-01-01,0,Botswana
+2021-01-01,1.475926121,Brazil
+2022-01-01,1.519690803,Brazil
+2023-01-01,1.553915071,Brazil
+2024-01-01,1.578532505,Brazil
+2025-01-01,1.391898198,Brazil
+2026-01-01,1.43566288,Brazil
+2027-01-01,1.469887148,Brazil
+2028-01-01,1.494504582,Brazil
+2029-01-01,1.307870275,Brazil
+2030-01-01,1.351634957,Brazil
+2021-01-01,9.209825543,Brunei Darussalam
+2022-01-01,8.75037453,Brunei Darussalam
+2023-01-01,8.272007832,Brunei Darussalam
+2024-01-01,7.774450029,Brunei Darussalam
+2025-01-01,6.368579063,Brunei Darussalam
+2026-01-01,5.90912805,Brunei Darussalam
+2027-01-01,5.430761352,Brunei Darussalam
+2028-01-01,4.933203549,Brunei Darussalam
+2029-01-01,3.527332583,Brunei Darussalam
+2030-01-01,3.067881569,Brunei Darussalam
+2021-01-01,0.022116738,Bulgaria
+2022-01-01,0.022644567,Bulgaria
+2023-01-01,0.023167452,Bulgaria
+2024-01-01,0.023684416,Bulgaria
+2025-01-01,0.020949778,Bulgaria
+2026-01-01,0.021477607,Bulgaria
+2027-01-01,0.022000492,Bulgaria
+2028-01-01,0.022517457,Bulgaria
+2029-01-01,0.019782819,Bulgaria
+2030-01-01,0.020310648,Bulgaria
+2021-01-01,0,Burkina Faso
+2022-01-01,0,Burkina Faso
+2023-01-01,0,Burkina Faso
+2024-01-01,0,Burkina Faso
+2025-01-01,0,Burkina Faso
+2026-01-01,0,Burkina Faso
+2027-01-01,0,Burkina Faso
+2028-01-01,0,Burkina Faso
+2029-01-01,0,Burkina Faso
+2030-01-01,0,Burkina Faso
+2021-01-01,0,Burundi
+2022-01-01,0,Burundi
+2023-01-01,0,Burundi
+2024-01-01,0,Burundi
+2025-01-01,0,Burundi
+2026-01-01,0,Burundi
+2027-01-01,0,Burundi
+2028-01-01,0,Burundi
+2029-01-01,0,Burundi
+2030-01-01,0,Burundi
+2021-01-01,0,Cabo Verde
+2022-01-01,0,Cabo Verde
+2023-01-01,0,Cabo Verde
+2024-01-01,0,Cabo Verde
+2025-01-01,0,Cabo Verde
+2026-01-01,0,Cabo Verde
+2027-01-01,0,Cabo Verde
+2028-01-01,0,Cabo Verde
+2029-01-01,0,Cabo Verde
+2030-01-01,0,Cabo Verde
+2021-01-01,0,Cambodia
+2022-01-01,0,Cambodia
+2023-01-01,0,Cambodia
+2024-01-01,0,Cambodia
+2025-01-01,0,Cambodia
+2026-01-01,0,Cambodia
+2027-01-01,0,Cambodia
+2028-01-01,0,Cambodia
+2029-01-01,0,Cambodia
+2030-01-01,0,Cambodia
+2021-01-01,3.032396967,Cameroon
+2022-01-01,3.115941529,Cameroon
+2023-01-01,3.199965307,Cameroon
+2024-01-01,3.284264243,Cameroon
+2025-01-01,2.691031704,Cameroon
+2026-01-01,2.774576266,Cameroon
+2027-01-01,2.858600044,Cameroon
+2028-01-01,2.94289898,Cameroon
+2029-01-01,2.349666441,Cameroon
+2030-01-01,2.433211003,Cameroon
+2021-01-01,1.18473286,Canada
+2022-01-01,1.21751643,Canada
+2023-01-01,1.249464662,Canada
+2024-01-01,1.280530324,Canada
+2025-01-01,1.155212494,Canada
+2026-01-01,1.187996063,Canada
+2027-01-01,1.219944296,Canada
+2028-01-01,1.251009957,Canada
+2029-01-01,1.125692128,Canada
+2030-01-01,1.158475697,Canada
+2021-01-01,1.312274787,Caribbean small states
+2022-01-01,1.266163593,Caribbean small states
+2023-01-01,1.216387679,Caribbean small states
+2024-01-01,1.162876944,Caribbean small states
+2025-01-01,0.877967333,Caribbean small states
+2026-01-01,0.831856139,Caribbean small states
+2027-01-01,0.782080226,Caribbean small states
+2028-01-01,0.72856949,Caribbean small states
+2029-01-01,0.443659879,Caribbean small states
+2030-01-01,0.397548685,Caribbean small states
+2021-01-01,0,Cayman Islands
+2022-01-01,0,Cayman Islands
+2023-01-01,0,Cayman Islands
+2024-01-01,0,Cayman Islands
+2025-01-01,0,Cayman Islands
+2026-01-01,0,Cayman Islands
+2027-01-01,0,Cayman Islands
+2028-01-01,0,Cayman Islands
+2029-01-01,0,Cayman Islands
+2030-01-01,0,Cayman Islands
+2021-01-01,0,Central African Republic
+2022-01-01,0,Central African Republic
+2023-01-01,0,Central African Republic
+2024-01-01,0,Central African Republic
+2025-01-01,0,Central African Republic
+2026-01-01,0,Central African Republic
+2027-01-01,0,Central African Republic
+2028-01-01,0,Central African Republic
+2029-01-01,0,Central African Republic
+2030-01-01,0,Central African Republic
+2021-01-01,0.102373713,Central Europe and the Baltics
+2022-01-01,0.100158559,Central Europe and the Baltics
+2023-01-01,0.097785191,Central Europe and the Baltics
+2024-01-01,0.095250376,Central Europe and the Baltics
+2025-01-01,0.081986209,Central Europe and the Baltics
+2026-01-01,0.079771055,Central Europe and the Baltics
+2027-01-01,0.077397687,Central Europe and the Baltics
+2028-01-01,0.074862871,Central Europe and the Baltics
+2029-01-01,0.061598704,Central Europe and the Baltics
+2030-01-01,0.05938355,Central Europe and the Baltics
+2021-01-01,15.64713806,Chad
+2022-01-01,17.33045703,Chad
+2023-01-01,19.037606,Chad
+2024-01-01,20.76644007,Chad
+2025-01-01,15.40694682,Chad
+2026-01-01,17.09026579,Chad
+2027-01-01,18.79741476,Chad
+2028-01-01,20.52624882,Chad
+2029-01-01,15.16675557,Chad
+2030-01-01,16.85007454,Chad
+2021-01-01,0.014689443,Chile
+2022-01-01,0.013314751,Chile
+2023-01-01,0.011998128,Chile
+2024-01-01,0.010738924,Chile
+2025-01-01,0.007249306,Chile
+2026-01-01,0.005874614,Chile
+2027-01-01,0.004557992,Chile
+2028-01-01,0.003298788,Chile
+2029-01-01,-0.000190831,Chile
+2030-01-01,-0.001565523,Chile
+2021-01-01,0.16327942,China
+2022-01-01,0.1339538,China
+2023-01-01,0.104107093,China
+2024-01-01,0.073670526,China
+2025-01-01,-0.184170893,China
+2026-01-01,-0.213496513,China
+2027-01-01,-0.24334322,China
+2028-01-01,-0.273779788,China
+2029-01-01,-0.531621206,China
+2030-01-01,-0.560946826,China
+2021-01-01,3.789226753,Colombia
+2022-01-01,3.876477911,Colombia
+2023-01-01,3.951977293,Colombia
+2024-01-01,4.015597395,Colombia
+2025-01-01,3.668002827,Colombia
+2026-01-01,3.755253984,Colombia
+2027-01-01,3.830753366,Colombia
+2028-01-01,3.894373469,Colombia
+2029-01-01,3.5467789,Colombia
+2030-01-01,3.634030058,Colombia
+2021-01-01,0,Comoros
+2022-01-01,0,Comoros
+2023-01-01,0,Comoros
+2024-01-01,0,Comoros
+2025-01-01,0,Comoros
+2026-01-01,0,Comoros
+2027-01-01,0,Comoros
+2028-01-01,0,Comoros
+2029-01-01,0,Comoros
+2030-01-01,0,Comoros
+2021-01-01,0.600284765,"Congo, Dem. Rep."
+2022-01-01,0.608417275,"Congo, Dem. Rep."
+2023-01-01,0.617109634,"Congo, Dem. Rep."
+2024-01-01,0.626269709,"Congo, Dem. Rep."
+2025-01-01,0.330743314,"Congo, Dem. Rep."
+2026-01-01,0.338875824,"Congo, Dem. Rep."
+2027-01-01,0.347568184,"Congo, Dem. Rep."
+2028-01-01,0.356728258,"Congo, Dem. Rep."
+2029-01-01,0.061201863,"Congo, Dem. Rep."
+2030-01-01,0.069334373,"Congo, Dem. Rep."
+2021-01-01,29.48254663,"Congo, Rep."
+2022-01-01,28.97502876,"Congo, Rep."
+2023-01-01,28.33105626,"Congo, Rep."
+2024-01-01,27.55052547,"Congo, Rep."
+2025-01-01,26.51742585,"Congo, Rep."
+2026-01-01,26.00990798,"Congo, Rep."
+2027-01-01,25.36593548,"Congo, Rep."
+2028-01-01,24.58540469,"Congo, Rep."
+2029-01-01,23.55230506,"Congo, Rep."
+2030-01-01,23.0447872,"Congo, Rep."
+2021-01-01,0,Costa Rica
+2022-01-01,0,Costa Rica
+2023-01-01,0,Costa Rica
+2024-01-01,0,Costa Rica
+2025-01-01,0,Costa Rica
+2026-01-01,0,Costa Rica
+2027-01-01,0,Costa Rica
+2028-01-01,0,Costa Rica
+2029-01-01,0,Costa Rica
+2030-01-01,0,Costa Rica
+2021-01-01,1.36164773,Cote d'Ivoire
+2022-01-01,1.580285905,Cote d'Ivoire
+2023-01-01,1.799176919,Cote d'Ivoire
+2024-01-01,2.017987104,Cote d'Ivoire
+2025-01-01,1.136482592,Cote d'Ivoire
+2026-01-01,1.355120767,Cote d'Ivoire
+2027-01-01,1.574011781,Cote d'Ivoire
+2028-01-01,1.792821966,Cote d'Ivoire
+2029-01-01,0.911317454,Cote d'Ivoire
+2030-01-01,1.129955629,Cote d'Ivoire
+2021-01-01,0.283600524,Croatia
+2022-01-01,0.275791555,Croatia
+2023-01-01,0.265651449,Croatia
+2024-01-01,0.253184695,Croatia
+2025-01-01,0.256889009,Croatia
+2026-01-01,0.249080039,Croatia
+2027-01-01,0.238939933,Croatia
+2028-01-01,0.22647318,Croatia
+2029-01-01,0.230177493,Croatia
+2030-01-01,0.222368524,Croatia
+2021-01-01,0.670133924,Cuba
+2022-01-01,0.729583358,Cuba
+2023-01-01,0.788795184,Cuba
+2024-01-01,0.847657531,Cuba
+2025-01-01,0.538649797,Cuba
+2026-01-01,0.598099231,Cuba
+2027-01-01,0.657311057,Cuba
+2028-01-01,0.716173404,Cuba
+2029-01-01,0.40716567,Cuba
+2030-01-01,0.466615104,Cuba
+2021-01-01,0,Cyprus
+2022-01-01,0,Cyprus
+2023-01-01,0,Cyprus
+2024-01-01,0,Cyprus
+2025-01-01,0,Cyprus
+2026-01-01,0,Cyprus
+2027-01-01,0,Cyprus
+2028-01-01,0,Cyprus
+2029-01-01,0,Cyprus
+2030-01-01,0,Cyprus
+2021-01-01,0.007516693,Czech Republic
+2022-01-01,0.007087287,Czech Republic
+2023-01-01,0.006651679,Czech Republic
+2024-01-01,0.006208445,Czech Republic
+2025-01-01,0.001041671,Czech Republic
+2026-01-01,0.000612266,Czech Republic
+2027-01-01,0.000176657,Czech Republic
+2028-01-01,-0.000266577,Czech Republic
+2029-01-01,-0.00543335,Czech Republic
+2030-01-01,-0.005862756,Czech Republic
+2021-01-01,0.383982928,Denmark
+2022-01-01,0.39105174,Denmark
+2023-01-01,0.397784057,Denmark
+2024-01-01,0.404114559,Denmark
+2025-01-01,0.19485094,Denmark
+2026-01-01,0.201919753,Denmark
+2027-01-01,0.20865207,Denmark
+2028-01-01,0.214982571,Denmark
+2029-01-01,0.005718953,Denmark
+2030-01-01,0.012787765,Denmark
+2021-01-01,0,Djibouti
+2022-01-01,0,Djibouti
+2023-01-01,0,Djibouti
+2024-01-01,0,Djibouti
+2025-01-01,0,Djibouti
+2026-01-01,0,Djibouti
+2027-01-01,0,Djibouti
+2028-01-01,0,Djibouti
+2029-01-01,0,Djibouti
+2030-01-01,0,Djibouti
+2021-01-01,0,Dominica
+2022-01-01,0,Dominica
+2023-01-01,0,Dominica
+2024-01-01,0,Dominica
+2025-01-01,0,Dominica
+2026-01-01,0,Dominica
+2027-01-01,0,Dominica
+2028-01-01,0,Dominica
+2029-01-01,0,Dominica
+2030-01-01,0,Dominica
+2021-01-01,0,Dominican Republic
+2022-01-01,0,Dominican Republic
+2023-01-01,0,Dominican Republic
+2024-01-01,0,Dominican Republic
+2025-01-01,0,Dominican Republic
+2026-01-01,0,Dominican Republic
+2027-01-01,0,Dominican Republic
+2028-01-01,0,Dominican Republic
+2029-01-01,0,Dominican Republic
+2030-01-01,0,Dominican Republic
+2021-01-01,3.22844145,Early-demographic dividend
+2022-01-01,3.253854246,Early-demographic dividend
+2023-01-01,3.285858632,Early-demographic dividend
+2024-01-01,3.324104995,Early-demographic dividend
+2025-01-01,2.196484661,Early-demographic dividend
+2026-01-01,2.221897456,Early-demographic dividend
+2027-01-01,2.253901842,Early-demographic dividend
+2028-01-01,2.292148205,Early-demographic dividend
+2029-01-01,1.164527871,Early-demographic dividend
+2030-01-01,1.189940667,Early-demographic dividend
+2021-01-01,0.372718627,East Asia & Pacific
+2022-01-01,0.387892467,East Asia & Pacific
+2023-01-01,0.402941696,East Asia & Pacific
+2024-01-01,0.417823487,East Asia & Pacific
+2025-01-01,0.291244024,East Asia & Pacific
+2026-01-01,0.306417864,East Asia & Pacific
+2027-01-01,0.321467093,East Asia & Pacific
+2028-01-01,0.336348884,East Asia & Pacific
+2029-01-01,0.209769421,East Asia & Pacific
+2030-01-01,0.224943262,East Asia & Pacific
+2021-01-01,0.198139306,East Asia & Pacific (IDA & IBRD countries)
+2022-01-01,0.155571582,East Asia & Pacific (IDA & IBRD countries)
+2023-01-01,0.11365354,East Asia & Pacific (IDA & IBRD countries)
+2024-01-01,0.072306023,East Asia & Pacific (IDA & IBRD countries)
+2025-01-01,-0.232312064,East Asia & Pacific (IDA & IBRD countries)
+2026-01-01,-0.274879788,East Asia & Pacific (IDA & IBRD countries)
+2027-01-01,-0.31679783,East Asia & Pacific (IDA & IBRD countries)
+2028-01-01,-0.358145348,East Asia & Pacific (IDA & IBRD countries)
+2029-01-01,-0.662763434,East Asia & Pacific (IDA & IBRD countries)
+2030-01-01,-0.705331158,East Asia & Pacific (IDA & IBRD countries)
+2021-01-01,0.198218088,East Asia & Pacific (excluding high income)
+2022-01-01,0.155643781,East Asia & Pacific (excluding high income)
+2023-01-01,0.113720389,East Asia & Pacific (excluding high income)
+2024-01-01,0.072368782,East Asia & Pacific (excluding high income)
+2025-01-01,-0.232159638,East Asia & Pacific (excluding high income)
+2026-01-01,-0.274733945,East Asia & Pacific (excluding high income)
+2027-01-01,-0.316657337,East Asia & Pacific (excluding high income)
+2028-01-01,-0.358008944,East Asia & Pacific (excluding high income)
+2029-01-01,-0.662537364,East Asia & Pacific (excluding high income)
+2030-01-01,-0.705111671,East Asia & Pacific (excluding high income)
+2021-01-01,5.842535736,Ecuador
+2022-01-01,5.984856589,Ecuador
+2023-01-01,6.123192575,Ecuador
+2024-01-01,6.256891321,Ecuador
+2025-01-01,4.239938421,Ecuador
+2026-01-01,4.382259273,Ecuador
+2027-01-01,4.52059526,Ecuador
+2028-01-01,4.654294005,Ecuador
+2029-01-01,2.637341105,Ecuador
+2030-01-01,2.779661957,Ecuador
+2021-01-01,3.439933247,"Egypt, Arab Rep."
+2022-01-01,3.487651886,"Egypt, Arab Rep."
+2023-01-01,3.530598306,"Egypt, Arab Rep."
+2024-01-01,3.568335388,"Egypt, Arab Rep."
+2025-01-01,2.165849769,"Egypt, Arab Rep."
+2026-01-01,2.213568407,"Egypt, Arab Rep."
+2027-01-01,2.256514827,"Egypt, Arab Rep."
+2028-01-01,2.294251909,"Egypt, Arab Rep."
+2029-01-01,0.89176629,"Egypt, Arab Rep."
+2030-01-01,0.939484928,"Egypt, Arab Rep."
+2021-01-01,0,El Salvador
+2022-01-01,0,El Salvador
+2023-01-01,0,El Salvador
+2024-01-01,0,El Salvador
+2025-01-01,0,El Salvador
+2026-01-01,0,El Salvador
+2027-01-01,0,El Salvador
+2028-01-01,0,El Salvador
+2029-01-01,0,El Salvador
+2030-01-01,0,El Salvador
+2021-01-01,6.504763072,Equatorial Guinea
+2022-01-01,5.065467494,Equatorial Guinea
+2023-01-01,3.245376929,Equatorial Guinea
+2024-01-01,1.043594338,Equatorial Guinea
+2025-01-01,-3.803686836,Equatorial Guinea
+2026-01-01,-5.242982414,Equatorial Guinea
+2027-01-01,-7.063072979,Equatorial Guinea
+2028-01-01,-9.264855569,Equatorial Guinea
+2029-01-01,-14.11213674,Equatorial Guinea
+2030-01-01,-15.55143232,Equatorial Guinea
+2021-01-01,0,Eritrea
+2022-01-01,0,Eritrea
+2023-01-01,0,Eritrea
+2024-01-01,0,Eritrea
+2025-01-01,0,Eritrea
+2026-01-01,0,Eritrea
+2027-01-01,0,Eritrea
+2028-01-01,0,Eritrea
+2029-01-01,0,Eritrea
+2030-01-01,0,Eritrea
+2021-01-01,0.627567316,Estonia
+2022-01-01,0.698562812,Estonia
+2023-01-01,0.768959619,Estonia
+2024-01-01,0.838696328,Estonia
+2025-01-01,0.707521013,Estonia
+2026-01-01,0.778516509,Estonia
+2027-01-01,0.848913316,Estonia
+2028-01-01,0.918650025,Estonia
+2029-01-01,0.78747471,Estonia
+2030-01-01,0.858470206,Estonia
+2021-01-01,0,Eswatini
+2022-01-01,0,Eswatini
+2023-01-01,0,Eswatini
+2024-01-01,0,Eswatini
+2025-01-01,0,Eswatini
+2026-01-01,0,Eswatini
+2027-01-01,0,Eswatini
+2028-01-01,0,Eswatini
+2029-01-01,0,Eswatini
+2030-01-01,0,Eswatini
+2021-01-01,0,Ethiopia
+2022-01-01,0,Ethiopia
+2023-01-01,0,Ethiopia
+2024-01-01,0,Ethiopia
+2025-01-01,0,Ethiopia
+2026-01-01,0,Ethiopia
+2027-01-01,0,Ethiopia
+2028-01-01,0,Ethiopia
+2029-01-01,0,Ethiopia
+2030-01-01,0,Ethiopia
+2021-01-01,0.022106493,Euro area
+2022-01-01,0.023111002,Euro area
+2023-01-01,0.02406674,Euro area
+2024-01-01,0.02497241,Euro area
+2025-01-01,0.021630665,Euro area
+2026-01-01,0.022635173,Euro area
+2027-01-01,0.023590911,Euro area
+2028-01-01,0.024496582,Euro area
+2029-01-01,0.021154836,Euro area
+2030-01-01,0.022159344,Euro area
+2021-01-01,1.089732203,Europe & Central Asia
+2022-01-01,1.132872452,Europe & Central Asia
+2023-01-01,1.174323906,Europe & Central Asia
+2024-01-01,1.214048694,Europe & Central Asia
+2025-01-01,1.12958216,Europe & Central Asia
+2026-01-01,1.172722408,Europe & Central Asia
+2027-01-01,1.214173863,Europe & Central Asia
+2028-01-01,1.25389865,Europe & Central Asia
+2029-01-01,1.169432116,Europe & Central Asia
+2030-01-01,1.212572365,Europe & Central Asia
+2021-01-01,4.287701906,Europe & Central Asia (IDA & IBRD countries)
+2022-01-01,4.351147234,Europe & Central Asia (IDA & IBRD countries)
+2023-01-01,4.394525511,Europe & Central Asia (IDA & IBRD countries)
+2024-01-01,4.417722588,Europe & Central Asia (IDA & IBRD countries)
+2025-01-01,4.077190147,Europe & Central Asia (IDA & IBRD countries)
+2026-01-01,4.140635476,Europe & Central Asia (IDA & IBRD countries)
+2027-01-01,4.184013753,Europe & Central Asia (IDA & IBRD countries)
+2028-01-01,4.20721083,Europe & Central Asia (IDA & IBRD countries)
+2029-01-01,3.866678389,Europe & Central Asia (IDA & IBRD countries)
+2030-01-01,3.930123718,Europe & Central Asia (IDA & IBRD countries)
+2021-01-01,4.856137418,Europe & Central Asia (excluding high income)
+2022-01-01,4.885785626,Europe & Central Asia (excluding high income)
+2023-01-01,4.887433702,Europe & Central Asia (excluding high income)
+2024-01-01,4.860977182,Europe & Central Asia (excluding high income)
+2025-01-01,4.508177062,Europe & Central Asia (excluding high income)
+2026-01-01,4.53782527,Europe & Central Asia (excluding high income)
+2027-01-01,4.539473346,Europe & Central Asia (excluding high income)
+2028-01-01,4.513016826,Europe & Central Asia (excluding high income)
+2029-01-01,4.160216706,Europe & Central Asia (excluding high income)
+2030-01-01,4.189864914,Europe & Central Asia (excluding high income)
+2021-01-01,0.03860159,European Union
+2022-01-01,0.039680391,European Union
+2023-01-01,0.040698899,European Union
+2024-01-01,0.041654316,European Union
+2025-01-01,0.033409271,European Union
+2026-01-01,0.034488073,European Union
+2027-01-01,0.03550658,European Union
+2028-01-01,0.036461998,European Union
+2029-01-01,0.028216953,European Union
+2030-01-01,0.029295755,European Union
+2021-01-01,0,Faroe Islands
+2022-01-01,0,Faroe Islands
+2023-01-01,0,Faroe Islands
+2024-01-01,0,Faroe Islands
+2025-01-01,0,Faroe Islands
+2026-01-01,0,Faroe Islands
+2027-01-01,0,Faroe Islands
+2028-01-01,0,Faroe Islands
+2029-01-01,0,Faroe Islands
+2030-01-01,0,Faroe Islands
+2021-01-01,0,Fiji
+2022-01-01,0,Fiji
+2023-01-01,0,Fiji
+2024-01-01,0,Fiji
+2025-01-01,0,Fiji
+2026-01-01,0,Fiji
+2027-01-01,0,Fiji
+2028-01-01,0,Fiji
+2029-01-01,0,Fiji
+2030-01-01,0,Fiji
+2021-01-01,0,Finland
+2022-01-01,0,Finland
+2023-01-01,0,Finland
+2024-01-01,0,Finland
+2025-01-01,0,Finland
+2026-01-01,0,Finland
+2027-01-01,0,Finland
+2028-01-01,0,Finland
+2029-01-01,0,Finland
+2030-01-01,0,Finland
+2021-01-01,9.866831962,Fragile and conflict affected situations
+2022-01-01,10.11529109,Fragile and conflict affected situations
+2023-01-01,10.37346429,Fragile and conflict affected situations
+2024-01-01,10.64043934,Fragile and conflict affected situations
+2025-01-01,7.88154529,Fragile and conflict affected situations
+2026-01-01,8.130004415,Fragile and conflict affected situations
+2027-01-01,8.38817762,Fragile and conflict affected situations
+2028-01-01,8.655152668,Fragile and conflict affected situations
+2029-01-01,5.896258617,Fragile and conflict affected situations
+2030-01-01,6.144717743,Fragile and conflict affected situations
+2021-01-01,0.007256141,France
+2022-01-01,0.007416932,France
+2023-01-01,0.007562863,France
+2024-01-01,0.007693603,France
+2025-01-01,0.006737168,France
+2026-01-01,0.006897958,France
+2027-01-01,0.007043889,France
+2028-01-01,0.007174629,France
+2029-01-01,0.006218194,France
+2030-01-01,0.006378984,France
+2021-01-01,18.16075325,Gabon
+2022-01-01,17.92806308,Gabon
+2023-01-01,17.71869258,Gabon
+2024-01-01,17.53211571,Gabon
+2025-01-01,15.55324513,Gabon
+2026-01-01,15.32055496,Gabon
+2027-01-01,15.11118446,Gabon
+2028-01-01,14.92460759,Gabon
+2029-01-01,12.94573701,Gabon
+2030-01-01,12.71304684,Gabon
+2021-01-01,0,"Gambia, The"
+2022-01-01,0,"Gambia, The"
+2023-01-01,0,"Gambia, The"
+2024-01-01,0,"Gambia, The"
+2025-01-01,0,"Gambia, The"
+2026-01-01,0,"Gambia, The"
+2027-01-01,0,"Gambia, The"
+2028-01-01,0,"Gambia, The"
+2029-01-01,0,"Gambia, The"
+2030-01-01,0,"Gambia, The"
+2021-01-01,-0.038529564,Georgia
+2022-01-01,-0.042726146,Georgia
+2023-01-01,-0.048437319,Georgia
+2024-01-01,-0.055675228,Georgia
+2025-01-01,-0.100243811,Georgia
+2026-01-01,-0.104440393,Georgia
+2027-01-01,-0.110151566,Georgia
+2028-01-01,-0.117389475,Georgia
+2029-01-01,-0.161958058,Georgia
+2030-01-01,-0.16615464,Georgia
+2021-01-01,0.015519498,Germany
+2022-01-01,0.016173977,Germany
+2023-01-01,0.016820477,Germany
+2024-01-01,0.017457794,Germany
+2025-01-01,0.014128908,Germany
+2026-01-01,0.014783386,Germany
+2027-01-01,0.015429886,Germany
+2028-01-01,0.016067204,Germany
+2029-01-01,0.012738317,Germany
+2030-01-01,0.013392795,Germany
+2021-01-01,4.480158562,Ghana
+2022-01-01,4.730424534,Ghana
+2023-01-01,4.974844786,Ghana
+2024-01-01,5.213400029,Ghana
+2025-01-01,5.396833907,Ghana
+2026-01-01,5.647099879,Ghana
+2027-01-01,5.89152013,Ghana
+2028-01-01,6.130075373,Ghana
+2029-01-01,6.313509251,Ghana
+2030-01-01,6.563775223,Ghana
+2021-01-01,0.017253664,Greece
+2022-01-01,0.017036803,Greece
+2023-01-01,0.016753255,Greece
+2024-01-01,0.016403936,Greece
+2025-01-01,0.019096309,Greece
+2026-01-01,0.018879449,Greece
+2027-01-01,0.018595901,Greece
+2028-01-01,0.018246581,Greece
+2029-01-01,0.020938954,Greece
+2030-01-01,0.020722094,Greece
+2021-01-01,0,Greenland
+2022-01-01,0,Greenland
+2023-01-01,0,Greenland
+2024-01-01,0,Greenland
+2025-01-01,0,Greenland
+2026-01-01,0,Greenland
+2027-01-01,0,Greenland
+2028-01-01,0,Greenland
+2029-01-01,0,Greenland
+2030-01-01,0,Greenland
+2021-01-01,0,Grenada
+2022-01-01,0,Grenada
+2023-01-01,0,Grenada
+2024-01-01,0,Grenada
+2025-01-01,0,Grenada
+2026-01-01,0,Grenada
+2027-01-01,0,Grenada
+2028-01-01,0,Grenada
+2029-01-01,0,Grenada
+2030-01-01,0,Grenada
+2021-01-01,0,Guam
+2022-01-01,0,Guam
+2023-01-01,0,Guam
+2024-01-01,0,Guam
+2025-01-01,0,Guam
+2026-01-01,0,Guam
+2027-01-01,0,Guam
+2028-01-01,0,Guam
+2029-01-01,0,Guam
+2030-01-01,0,Guam
+2021-01-01,0.01487457,Guatemala
+2022-01-01,0.008089895,Guatemala
+2023-01-01,0.000346305,Guatemala
+2024-01-01,-0.008395339,Guatemala
+2025-01-01,-0.145884882,Guatemala
+2026-01-01,-0.152669556,Guatemala
+2027-01-01,-0.160413146,Guatemala
+2028-01-01,-0.16915479,Guatemala
+2029-01-01,-0.306644333,Guatemala
+2030-01-01,-0.313429007,Guatemala
+2021-01-01,0,Guinea
+2022-01-01,0,Guinea
+2023-01-01,0,Guinea
+2024-01-01,0,Guinea
+2025-01-01,0,Guinea
+2026-01-01,0,Guinea
+2027-01-01,0,Guinea
+2028-01-01,0,Guinea
+2029-01-01,0,Guinea
+2030-01-01,0,Guinea
+2021-01-01,0,Guinea-Bissau
+2022-01-01,0,Guinea-Bissau
+2023-01-01,0,Guinea-Bissau
+2024-01-01,0,Guinea-Bissau
+2025-01-01,0,Guinea-Bissau
+2026-01-01,0,Guinea-Bissau
+2027-01-01,0,Guinea-Bissau
+2028-01-01,0,Guinea-Bissau
+2029-01-01,0,Guinea-Bissau
+2030-01-01,0,Guinea-Bissau
+2021-01-01,0.138873892,Guyana
+2022-01-01,0.165514115,Guyana
+2023-01-01,0.18986619,Guyana
+2024-01-01,0.211913435,Guyana
+2025-01-01,0.183003855,Guyana
+2026-01-01,0.209644078,Guyana
+2027-01-01,0.233996153,Guyana
+2028-01-01,0.256043398,Guyana
+2029-01-01,0.227133819,Guyana
+2030-01-01,0.253774041,Guyana
+2021-01-01,0,Haiti
+2022-01-01,0,Haiti
+2023-01-01,0,Haiti
+2024-01-01,0,Haiti
+2025-01-01,0,Haiti
+2026-01-01,0,Haiti
+2027-01-01,0,Haiti
+2028-01-01,0,Haiti
+2029-01-01,0,Haiti
+2030-01-01,0,Haiti
+2021-01-01,1.610505853,Heavily indebted poor countries (HIPC)
+2022-01-01,1.733683967,Heavily indebted poor countries (HIPC)
+2023-01-01,1.85109328,Heavily indebted poor countries (HIPC)
+2024-01-01,1.962464055,Heavily indebted poor countries (HIPC)
+2025-01-01,1.190698621,Heavily indebted poor countries (HIPC)
+2026-01-01,1.313876735,Heavily indebted poor countries (HIPC)
+2027-01-01,1.431286047,Heavily indebted poor countries (HIPC)
+2028-01-01,1.542656822,Heavily indebted poor countries (HIPC)
+2029-01-01,0.770891388,Heavily indebted poor countries (HIPC)
+2030-01-01,0.894069502,Heavily indebted poor countries (HIPC)
+2021-01-01,1.114040543,High income
+2022-01-01,1.160889261,High income
+2023-01-01,1.208040669,High income
+2024-01-01,1.25545148,High income
+2025-01-01,1.159087995,High income
+2026-01-01,1.205936712,High income
+2027-01-01,1.253088121,High income
+2028-01-01,1.300498932,High income
+2029-01-01,1.204135447,High income
+2030-01-01,1.250984164,High income
+2021-01-01,0,Honduras
+2022-01-01,0,Honduras
+2023-01-01,0,Honduras
+2024-01-01,0,Honduras
+2025-01-01,0,Honduras
+2026-01-01,0,Honduras
+2027-01-01,0,Honduras
+2028-01-01,0,Honduras
+2029-01-01,0,Honduras
+2030-01-01,0,Honduras
+2021-01-01,0,"Hong Kong SAR, China"
+2022-01-01,0,"Hong Kong SAR, China"
+2023-01-01,0,"Hong Kong SAR, China"
+2024-01-01,0,"Hong Kong SAR, China"
+2025-01-01,0,"Hong Kong SAR, China"
+2026-01-01,0,"Hong Kong SAR, China"
+2027-01-01,0,"Hong Kong SAR, China"
+2028-01-01,0,"Hong Kong SAR, China"
+2029-01-01,0,"Hong Kong SAR, China"
+2030-01-01,0,"Hong Kong SAR, China"
+2021-01-01,0.108706408,Hungary
+2022-01-01,0.106110813,Hungary
+2023-01-01,0.103379603,Hungary
+2024-01-01,0.100510952,Hungary
+2025-01-01,0.091559386,Hungary
+2026-01-01,0.08896379,Hungary
+2027-01-01,0.08623258,Hungary
+2028-01-01,0.083363929,Hungary
+2029-01-01,0.074412363,Hungary
+2030-01-01,0.071816767,Hungary
+2021-01-01,1.627286357,IBRD only
+2022-01-01,1.640025145,IBRD only
+2023-01-01,1.654078422,IBRD only
+2024-01-01,1.66923168,IBRD only
+2025-01-01,0.972195332,IBRD only
+2026-01-01,0.984934121,IBRD only
+2027-01-01,0.998987397,IBRD only
+2028-01-01,1.014140655,IBRD only
+2029-01-01,0.317104307,IBRD only
+2030-01-01,0.329843096,IBRD only
+2021-01-01,1.614152282,IDA & IBRD total
+2022-01-01,1.62433141,IDA & IBRD total
+2023-01-01,1.635473331,IDA & IBRD total
+2024-01-01,1.647357757,IDA & IBRD total
+2025-01-01,0.928460141,IDA & IBRD total
+2026-01-01,0.938639269,IDA & IBRD total
+2027-01-01,0.949781191,IDA & IBRD total
+2028-01-01,0.961665616,IDA & IBRD total
+2029-01-01,0.242768001,IDA & IBRD total
+2030-01-01,0.252947128,IDA & IBRD total
+2021-01-01,3.405317508,IDA blend
+2022-01-01,3.446804115,IDA blend
+2023-01-01,3.489704789,IDA blend
+2024-01-01,3.533657806,IDA blend
+2025-01-01,2.380644998,IDA blend
+2026-01-01,2.422131605,IDA blend
+2027-01-01,2.465032279,IDA blend
+2028-01-01,2.508985296,IDA blend
+2029-01-01,1.355972488,IDA blend
+2030-01-01,1.397459095,IDA blend
+2021-01-01,-0.145232716,IDA only
+2022-01-01,-0.222763683,IDA only
+2023-01-01,-0.310971488,IDA only
+2024-01-01,-0.410074073,IDA only
+2025-01-01,-1.216974117,IDA only
+2026-01-01,-1.294505084,IDA only
+2027-01-01,-1.382712889,IDA only
+2028-01-01,-1.481815475,IDA only
+2029-01-01,-2.288715519,IDA only
+2030-01-01,-2.366246486,IDA only
+2021-01-01,1.564689076,IDA total
+2022-01-01,1.564390093,IDA total
+2023-01-01,1.560471836,IDA total
+2024-01-01,1.552620353,IDA total
+2025-01-01,0.511944269,IDA total
+2026-01-01,0.511645286,IDA total
+2027-01-01,0.507727029,IDA total
+2028-01-01,0.499875546,IDA total
+2029-01-01,-0.540800538,IDA total
+2030-01-01,-0.541099521,IDA total
+2021-01-01,0,Iceland
+2022-01-01,0,Iceland
+2023-01-01,0,Iceland
+2024-01-01,0,Iceland
+2025-01-01,0,Iceland
+2026-01-01,0,Iceland
+2027-01-01,0,Iceland
+2028-01-01,0,Iceland
+2029-01-01,0,Iceland
+2030-01-01,0,Iceland
+2021-01-01,0.351702761,India
+2022-01-01,0.37078156,India
+2023-01-01,0.391107876,India
+2024-01-01,0.412606687,India
+2025-01-01,0.185091358,India
+2026-01-01,0.204170157,India
+2027-01-01,0.224496473,India
+2028-01-01,0.245995285,India
+2029-01-01,0.018479956,India
+2030-01-01,0.037558755,India
+2021-01-01,0.230032424,Indonesia
+2022-01-01,0.013561084,Indonesia
+2023-01-01,-0.186581681,Indonesia
+2024-01-01,-0.370426293,Indonesia
+2025-01-01,-0.676661744,Indonesia
+2026-01-01,-0.893133084,Indonesia
+2027-01-01,-1.093275849,Indonesia
+2028-01-01,-1.277120461,Indonesia
+2029-01-01,-1.583355912,Indonesia
+2030-01-01,-1.799827252,Indonesia
+2021-01-01,15.84171345,"Iran, Islamic Rep."
+2022-01-01,15.11590135,"Iran, Islamic Rep."
+2023-01-01,14.33923686,"Iran, Islamic Rep."
+2024-01-01,13.51198114,"Iran, Islamic Rep."
+2025-01-01,13.53479269,"Iran, Islamic Rep."
+2026-01-01,12.8089806,"Iran, Islamic Rep."
+2027-01-01,12.03231611,"Iran, Islamic Rep."
+2028-01-01,11.20506038,"Iran, Islamic Rep."
+2029-01-01,11.22787194,"Iran, Islamic Rep."
+2030-01-01,10.50205985,"Iran, Islamic Rep."
+2021-01-01,28.52359457,Iraq
+2022-01-01,27.20310221,Iraq
+2023-01-01,25.51447034,Iraq
+2024-01-01,23.45744897,Iraq
+2025-01-01,20.79225597,Iraq
+2026-01-01,19.47176361,Iraq
+2027-01-01,17.78313174,Iraq
+2028-01-01,15.72611037,Iraq
+2029-01-01,13.06091736,Iraq
+2030-01-01,11.74042501,Iraq
+2021-01-01,0,Ireland
+2022-01-01,0,Ireland
+2023-01-01,0,Ireland
+2024-01-01,0,Ireland
+2025-01-01,0,Ireland
+2026-01-01,0,Ireland
+2027-01-01,0,Ireland
+2028-01-01,0,Ireland
+2029-01-01,0,Ireland
+2030-01-01,0,Ireland
+2021-01-01,0.00328222,Israel
+2022-01-01,0.003524045,Israel
+2023-01-01,0.003769145,Israel
+2024-01-01,0.004017383,Israel
+2025-01-01,0.003807999,Israel
+2026-01-01,0.004049824,Israel
+2027-01-01,0.004294925,Israel
+2028-01-01,0.004543162,Israel
+2029-01-01,0.004333778,Israel
+2030-01-01,0.004575603,Israel
+2021-01-01,0.073361192,Italy
+2022-01-01,0.076562635,Italy
+2023-01-01,0.079578185,Italy
+2024-01-01,0.082405276,Italy
+2025-01-01,0.076902969,Italy
+2026-01-01,0.080104413,Italy
+2027-01-01,0.083119962,Italy
+2028-01-01,0.085947053,Italy
+2029-01-01,0.080444747,Italy
+2030-01-01,0.083646191,Italy
+2021-01-01,0,Jamaica
+2022-01-01,0,Jamaica
+2023-01-01,0,Jamaica
+2024-01-01,0,Jamaica
+2025-01-01,0,Jamaica
+2026-01-01,0,Jamaica
+2027-01-01,0,Jamaica
+2028-01-01,0,Jamaica
+2029-01-01,0,Jamaica
+2030-01-01,0,Jamaica
+2021-01-01,0.001550076,Japan
+2022-01-01,0.001572955,Japan
+2023-01-01,0.001599122,Japan
+2024-01-01,0.001628549,Japan
+2025-01-01,0.001557524,Japan
+2026-01-01,0.001580403,Japan
+2027-01-01,0.00160657,Japan
+2028-01-01,0.001635997,Japan
+2029-01-01,0.001564972,Japan
+2030-01-01,0.001587851,Japan
+2021-01-01,0.000346627,Jordan
+2022-01-01,0.000416989,Jordan
+2023-01-01,0.000510061,Jordan
+2024-01-01,0.000625584,Jordan
+2025-01-01,-0.000143255,Jordan
+2026-01-01,-7.29E-05,Jordan
+2027-01-01,2.02E-05,Jordan
+2028-01-01,0.000135702,Jordan
+2029-01-01,-0.000633136,Jordan
+2030-01-01,-0.000562774,Jordan
+2021-01-01,9.595008711,Kazakhstan
+2022-01-01,9.494204772,Kazakhstan
+2023-01-01,9.329542056,Kazakhstan
+2024-01-01,9.100578463,Kazakhstan
+2025-01-01,7.442147439,Kazakhstan
+2026-01-01,7.3413435,Kazakhstan
+2027-01-01,7.176680784,Kazakhstan
+2028-01-01,6.947717191,Kazakhstan
+2029-01-01,5.289286167,Kazakhstan
+2030-01-01,5.188482229,Kazakhstan
+2021-01-01,0.005518032,Kenya
+2022-01-01,0.006312508,Kenya
+2023-01-01,0.00700704,Kenya
+2024-01-01,0.00760127,Kenya
+2025-01-01,0.007158142,Kenya
+2026-01-01,0.007952618,Kenya
+2027-01-01,0.00864715,Kenya
+2028-01-01,0.00924138,Kenya
+2029-01-01,0.008798252,Kenya
+2030-01-01,0.009592728,Kenya
+2021-01-01,0,Kiribati
+2022-01-01,0,Kiribati
+2023-01-01,0,Kiribati
+2024-01-01,0,Kiribati
+2025-01-01,0,Kiribati
+2026-01-01,0,Kiribati
+2027-01-01,0,Kiribati
+2028-01-01,0,Kiribati
+2029-01-01,0,Kiribati
+2030-01-01,0,Kiribati
+2021-01-01,0.000980141,"Korea, Rep."
+2022-01-01,0.000905434,"Korea, Rep."
+2023-01-01,0.00083122,"Korea, Rep."
+2024-01-01,0.000757594,"Korea, Rep."
+2025-01-01,0.000998169,"Korea, Rep."
+2026-01-01,0.000923463,"Korea, Rep."
+2027-01-01,0.000849249,"Korea, Rep."
+2028-01-01,0.000775623,"Korea, Rep."
+2029-01-01,0.001016198,"Korea, Rep."
+2030-01-01,0.000941491,"Korea, Rep."
+2021-01-01,0,Kosovo
+2022-01-01,0,Kosovo
+2023-01-01,0,Kosovo
+2024-01-01,0,Kosovo
+2025-01-01,0,Kosovo
+2026-01-01,0,Kosovo
+2027-01-01,0,Kosovo
+2028-01-01,0,Kosovo
+2029-01-01,0,Kosovo
+2030-01-01,0,Kosovo
+2021-01-01,42.09311135,Kuwait
+2022-01-01,42.22389795,Kuwait
+2023-01-01,42.29761333,Kuwait
+2024-01-01,42.31381915,Kuwait
+2025-01-01,40.88331126,Kuwait
+2026-01-01,41.01409786,Kuwait
+2027-01-01,41.08781323,Kuwait
+2028-01-01,41.10401905,Kuwait
+2029-01-01,39.67351116,Kuwait
+2030-01-01,39.80429776,Kuwait
+2021-01-01,0.093808961,Kyrgyz Republic
+2022-01-01,0.038870937,Kyrgyz Republic
+2023-01-01,-0.017177091,Kyrgyz Republic
+2024-01-01,-0.074300928,Kyrgyz Republic
+2025-01-01,-0.019495728,Kyrgyz Republic
+2026-01-01,-0.074433752,Kyrgyz Republic
+2027-01-01,-0.13048178,Kyrgyz Republic
+2028-01-01,-0.187605617,Kyrgyz Republic
+2029-01-01,-0.132800416,Kyrgyz Republic
+2030-01-01,-0.18773844,Kyrgyz Republic
+2021-01-01,0,Lao PDR
+2022-01-01,0,Lao PDR
+2023-01-01,0,Lao PDR
+2024-01-01,0,Lao PDR
+2025-01-01,0,Lao PDR
+2026-01-01,0,Lao PDR
+2027-01-01,0,Lao PDR
+2028-01-01,0,Lao PDR
+2029-01-01,0,Lao PDR
+2030-01-01,0,Lao PDR
+2021-01-01,1.818343202,Late-demographic dividend
+2022-01-01,1.824600175,Late-demographic dividend
+2023-01-01,1.828568995,Late-demographic dividend
+2024-01-01,1.83006596,Late-demographic dividend
+2025-01-01,1.225333775,Late-demographic dividend
+2026-01-01,1.231590747,Late-demographic dividend
+2027-01-01,1.235559568,Late-demographic dividend
+2028-01-01,1.237056533,Late-demographic dividend
+2029-01-01,0.632324347,Late-demographic dividend
+2030-01-01,0.63858132,Late-demographic dividend
+2021-01-01,1.278334917,Latin America & Caribbean
+2022-01-01,1.30474284,Latin America & Caribbean
+2023-01-01,1.327949774,Latin America & Caribbean
+2024-01-01,1.347757711,Latin America & Caribbean
+2025-01-01,0.715933616,Latin America & Caribbean
+2026-01-01,0.742341539,Latin America & Caribbean
+2027-01-01,0.765548473,Latin America & Caribbean
+2028-01-01,0.78535641,Latin America & Caribbean
+2029-01-01,0.153532316,Latin America & Caribbean
+2030-01-01,0.179940238,Latin America & Caribbean
+2021-01-01,1.474147921,Latin America & Caribbean (excluding high income)
+2022-01-01,1.517810959,Latin America & Caribbean (excluding high income)
+2023-01-01,1.556146322,Latin America & Caribbean (excluding high income)
+2024-01-01,1.589009075,Latin America & Caribbean (excluding high income)
+2025-01-01,1.147631782,Latin America & Caribbean (excluding high income)
+2026-01-01,1.19129482,Latin America & Caribbean (excluding high income)
+2027-01-01,1.229630183,Latin America & Caribbean (excluding high income)
+2028-01-01,1.262492936,Latin America & Caribbean (excluding high income)
+2029-01-01,0.821115643,Latin America & Caribbean (excluding high income)
+2030-01-01,0.864778682,Latin America & Caribbean (excluding high income)
+2021-01-01,1.281779866,Latin America & the Caribbean (IDA & IBRD countries)
+2022-01-01,1.305126341,Latin America & the Caribbean (IDA & IBRD countries)
+2023-01-01,1.324922844,Latin America & the Caribbean (IDA & IBRD countries)
+2024-01-01,1.340963303,Latin America & the Caribbean (IDA & IBRD countries)
+2025-01-01,0.678900778,Latin America & the Caribbean (IDA & IBRD countries)
+2026-01-01,0.702247253,Latin America & the Caribbean (IDA & IBRD countries)
+2027-01-01,0.722043757,Latin America & the Caribbean (IDA & IBRD countries)
+2028-01-01,0.738084215,Latin America & the Caribbean (IDA & IBRD countries)
+2029-01-01,0.07602169,Latin America & the Caribbean (IDA & IBRD countries)
+2030-01-01,0.099368166,Latin America & the Caribbean (IDA & IBRD countries)
+2021-01-01,0,Latvia
+2022-01-01,0,Latvia
+2023-01-01,0,Latvia
+2024-01-01,0,Latvia
+2025-01-01,0,Latvia
+2026-01-01,0,Latvia
+2027-01-01,0,Latvia
+2028-01-01,0,Latvia
+2029-01-01,0,Latvia
+2030-01-01,0,Latvia
+2021-01-01,2.481671395,Least developed countries: UN classification
+2022-01-01,2.767272038,Least developed countries: UN classification
+2023-01-01,3.057113067,Least developed countries: UN classification
+2024-01-01,3.35052219,Least developed countries: UN classification
+2025-01-01,1.421764309,Least developed countries: UN classification
+2026-01-01,1.707364953,Least developed countries: UN classification
+2027-01-01,1.997205981,Least developed countries: UN classification
+2028-01-01,2.290615104,Least developed countries: UN classification
+2029-01-01,0.361857223,Least developed countries: UN classification
+2030-01-01,0.647457867,Least developed countries: UN classification
+2021-01-01,0,Lebanon
+2022-01-01,0,Lebanon
+2023-01-01,0,Lebanon
+2024-01-01,0,Lebanon
+2025-01-01,0,Lebanon
+2026-01-01,0,Lebanon
+2027-01-01,0,Lebanon
+2028-01-01,0,Lebanon
+2029-01-01,0,Lebanon
+2030-01-01,0,Lebanon
+2021-01-01,0,Lesotho
+2022-01-01,0,Lesotho
+2023-01-01,0,Lesotho
+2024-01-01,0,Lesotho
+2025-01-01,0,Lesotho
+2026-01-01,0,Lesotho
+2027-01-01,0,Lesotho
+2028-01-01,0,Lesotho
+2029-01-01,0,Lesotho
+2030-01-01,0,Lesotho
+2021-01-01,0,Liberia
+2022-01-01,0,Liberia
+2023-01-01,0,Liberia
+2024-01-01,0,Liberia
+2025-01-01,0,Liberia
+2026-01-01,0,Liberia
+2027-01-01,0,Liberia
+2028-01-01,0,Liberia
+2029-01-01,0,Liberia
+2030-01-01,0,Liberia
+2021-01-01,35.36800185,Libya
+2022-01-01,35.66938244,Libya
+2023-01-01,35.85747266,Libya
+2024-01-01,35.93087445,Libya
+2025-01-01,31.41889557,Libya
+2026-01-01,31.72027616,Libya
+2027-01-01,31.90836639,Libya
+2028-01-01,31.98176818,Libya
+2029-01-01,27.46978929,Libya
+2030-01-01,27.77116989,Libya
+2021-01-01,-0.034431541,Lithuania
+2022-01-01,-0.051463607,Lithuania
+2023-01-01,-0.069708199,Lithuania
+2024-01-01,-0.089160419,Lithuania
+2025-01-01,-0.091298702,Lithuania
+2026-01-01,-0.108330767,Lithuania
+2027-01-01,-0.126575359,Lithuania
+2028-01-01,-0.146027579,Lithuania
+2029-01-01,-0.148165862,Lithuania
+2030-01-01,-0.165197928,Lithuania
+2021-01-01,1.680034549,Low & middle income
+2022-01-01,1.697822483,Low & middle income
+2023-01-01,1.716594887,Low & middle income
+2024-01-01,1.73613286,Low & middle income
+2025-01-01,1.029452626,Low & middle income
+2026-01-01,1.04724056,Low & middle income
+2027-01-01,1.066012964,Low & middle income
+2028-01-01,1.085550937,Low & middle income
+2029-01-01,0.378870703,Low & middle income
+2030-01-01,0.396658637,Low & middle income
+2021-01-01,-0.847143799,Low income
+2022-01-01,-1.081473932,Low income
+2023-01-01,-1.33805464,Low income
+2024-01-01,-1.617330624,Low income
+2025-01-01,-3.340233789,Low income
+2026-01-01,-3.574563922,Low income
+2027-01-01,-3.83114463,Low income
+2028-01-01,-4.110420614,Low income
+2029-01-01,-5.833323779,Low income
+2030-01-01,-6.067653912,Low income
+2021-01-01,2.134787373,Lower middle income
+2022-01-01,2.10135099,Lower middle income
+2023-01-01,2.078414294,Lower middle income
+2024-01-01,2.065715638,Lower middle income
+2025-01-01,1.173920357,Lower middle income
+2026-01-01,1.140483973,Lower middle income
+2027-01-01,1.117547278,Lower middle income
+2028-01-01,1.104848621,Lower middle income
+2029-01-01,0.213053341,Lower middle income
+2030-01-01,0.179616957,Lower middle income
+2021-01-01,0,Luxembourg
+2022-01-01,0,Luxembourg
+2023-01-01,0,Luxembourg
+2024-01-01,0,Luxembourg
+2025-01-01,0,Luxembourg
+2026-01-01,0,Luxembourg
+2027-01-01,0,Luxembourg
+2028-01-01,0,Luxembourg
+2029-01-01,0,Luxembourg
+2030-01-01,0,Luxembourg
+2021-01-01,0,"Macao SAR, China"
+2022-01-01,0,"Macao SAR, China"
+2023-01-01,0,"Macao SAR, China"
+2024-01-01,0,"Macao SAR, China"
+2025-01-01,0,"Macao SAR, China"
+2026-01-01,0,"Macao SAR, China"
+2027-01-01,0,"Macao SAR, China"
+2028-01-01,0,"Macao SAR, China"
+2029-01-01,0,"Macao SAR, China"
+2030-01-01,0,"Macao SAR, China"
+2021-01-01,0.127366227,Madagascar
+2022-01-01,0.129661118,Madagascar
+2023-01-01,0.131161043,Madagascar
+2024-01-01,0.131873584,Madagascar
+2025-01-01,0.158081442,Madagascar
+2026-01-01,0.160376333,Madagascar
+2027-01-01,0.161876258,Madagascar
+2028-01-01,0.162588799,Madagascar
+2029-01-01,0.188796657,Madagascar
+2030-01-01,0.191091547,Madagascar
+2021-01-01,0,Malawi
+2022-01-01,0,Malawi
+2023-01-01,0,Malawi
+2024-01-01,0,Malawi
+2025-01-01,0,Malawi
+2026-01-01,0,Malawi
+2027-01-01,0,Malawi
+2028-01-01,0,Malawi
+2029-01-01,0,Malawi
+2030-01-01,0,Malawi
+2021-01-01,2.02867619,Malaysia
+2022-01-01,2.022561217,Malaysia
+2023-01-01,2.020313951,Malaysia
+2024-01-01,2.021703739,Malaysia
+2025-01-01,1.253950843,Malaysia
+2026-01-01,1.247835869,Malaysia
+2027-01-01,1.245588603,Malaysia
+2028-01-01,1.246978391,Malaysia
+2029-01-01,0.479225495,Malaysia
+2030-01-01,0.473110521,Malaysia
+2021-01-01,0,Maldives
+2022-01-01,0,Maldives
+2023-01-01,0,Maldives
+2024-01-01,0,Maldives
+2025-01-01,0,Maldives
+2026-01-01,0,Maldives
+2027-01-01,0,Maldives
+2028-01-01,0,Maldives
+2029-01-01,0,Maldives
+2030-01-01,0,Maldives
+2021-01-01,0,Mali
+2022-01-01,0,Mali
+2023-01-01,0,Mali
+2024-01-01,0,Mali
+2025-01-01,0,Mali
+2026-01-01,0,Mali
+2027-01-01,0,Mali
+2028-01-01,0,Mali
+2029-01-01,0,Mali
+2030-01-01,0,Mali
+2021-01-01,0,Malta
+2022-01-01,0,Malta
+2023-01-01,0,Malta
+2024-01-01,0,Malta
+2025-01-01,0,Malta
+2026-01-01,0,Malta
+2027-01-01,0,Malta
+2028-01-01,0,Malta
+2029-01-01,0,Malta
+2030-01-01,0,Malta
+2021-01-01,0.689278052,Mauritania
+2022-01-01,0.888440568,Mauritania
+2023-01-01,1.054845338,Mauritania
+2024-01-01,1.18817967,Mauritania
+2025-01-01,0.313025633,Mauritania
+2026-01-01,0.512188149,Mauritania
+2027-01-01,0.678592919,Mauritania
+2028-01-01,0.811927251,Mauritania
+2029-01-01,-0.063226786,Mauritania
+2030-01-01,0.135935731,Mauritania
+2021-01-01,0,Mauritius
+2022-01-01,0,Mauritius
+2023-01-01,0,Mauritius
+2024-01-01,0,Mauritius
+2025-01-01,0,Mauritius
+2026-01-01,0,Mauritius
+2027-01-01,0,Mauritius
+2028-01-01,0,Mauritius
+2029-01-01,0,Mauritius
+2030-01-01,0,Mauritius
+2021-01-01,2.124645185,Mexico
+2022-01-01,2.217093545,Mexico
+2023-01-01,2.310254365,Mexico
+2024-01-01,2.40388344,Mexico
+2025-01-01,1.691279779,Mexico
+2026-01-01,1.78372814,Mexico
+2027-01-01,1.876888959,Mexico
+2028-01-01,1.970518035,Mexico
+2029-01-01,1.257914374,Mexico
+2030-01-01,1.350362735,Mexico
+2021-01-01,0,"Micronesia, Fed. Sts."
+2022-01-01,0,"Micronesia, Fed. Sts."
+2023-01-01,0,"Micronesia, Fed. Sts."
+2024-01-01,0,"Micronesia, Fed. Sts."
+2025-01-01,0,"Micronesia, Fed. Sts."
+2026-01-01,0,"Micronesia, Fed. Sts."
+2027-01-01,0,"Micronesia, Fed. Sts."
+2028-01-01,0,"Micronesia, Fed. Sts."
+2029-01-01,0,"Micronesia, Fed. Sts."
+2030-01-01,0,"Micronesia, Fed. Sts."
+2021-01-01,17.33028493,Middle East & North Africa
+2022-01-01,17.53167798,Middle East & North Africa
+2023-01-01,17.73215119,Middle East & North Africa
+2024-01-01,17.93095511,Middle East & North Africa
+2025-01-01,15.6380826,Middle East & North Africa
+2026-01-01,15.83947565,Middle East & North Africa
+2027-01-01,16.03994886,Middle East & North Africa
+2028-01-01,16.23875278,Middle East & North Africa
+2029-01-01,13.94588027,Middle East & North Africa
+2030-01-01,14.14727332,Middle East & North Africa
+2021-01-01,14.5266446,Middle East & North Africa (IDA & IBRD countries)
+2022-01-01,14.58446387,Middle East & North Africa (IDA & IBRD countries)
+2023-01-01,14.64271396,Middle East & North Africa (IDA & IBRD countries)
+2024-01-01,14.70088779,Middle East & North Africa (IDA & IBRD countries)
+2025-01-01,13.05712232,Middle East & North Africa (IDA & IBRD countries)
+2026-01-01,13.11494159,Middle East & North Africa (IDA & IBRD countries)
+2027-01-01,13.17319167,Middle East & North Africa (IDA & IBRD countries)
+2028-01-01,13.2313655,Middle East & North Africa (IDA & IBRD countries)
+2029-01-01,11.58760004,Middle East & North Africa (IDA & IBRD countries)
+2030-01-01,11.64541931,Middle East & North Africa (IDA & IBRD countries)
+2021-01-01,14.37291648,Middle East & North Africa (excluding high income)
+2022-01-01,14.44039893,Middle East & North Africa (excluding high income)
+2023-01-01,14.50770646,Middle East & North Africa (excluding high income)
+2024-01-01,14.57432158,Middle East & North Africa (excluding high income)
+2025-01-01,12.90635909,Middle East & North Africa (excluding high income)
+2026-01-01,12.97384154,Middle East & North Africa (excluding high income)
+2027-01-01,13.04114908,Middle East & North Africa (excluding high income)
+2028-01-01,13.10776419,Middle East & North Africa (excluding high income)
+2029-01-01,11.4398017,Middle East & North Africa (excluding high income)
+2030-01-01,11.50728415,Middle East & North Africa (excluding high income)
+2021-01-01,1.725276424,Middle income
+2022-01-01,1.748345574,Middle income
+2023-01-01,1.772778629,Middle income
+2024-01-01,1.798359677,Middle income
+2025-01-01,1.107197972,Middle income
+2026-01-01,1.130267122,Middle income
+2027-01-01,1.154700177,Middle income
+2028-01-01,1.180281225,Middle income
+2029-01-01,0.48911952,Middle income
+2030-01-01,0.512188669,Middle income
+2021-01-01,0.015369859,Moldova
+2022-01-01,0.017304763,Moldova
+2023-01-01,0.019515903,Moldova
+2024-01-01,0.021998923,Moldova
+2025-01-01,0.009889249,Moldova
+2026-01-01,0.011824154,Moldova
+2027-01-01,0.014035294,Moldova
+2028-01-01,0.016518314,Moldova
+2029-01-01,0.00440864,Moldova
+2030-01-01,0.006343544,Moldova
+2021-01-01,3.119703207,Mongolia
+2022-01-01,3.193635246,Mongolia
+2023-01-01,3.263647784,Mongolia
+2024-01-01,3.329834298,Mongolia
+2025-01-01,3.698794747,Mongolia
+2026-01-01,3.772726785,Mongolia
+2027-01-01,3.842739323,Mongolia
+2028-01-01,3.908925837,Mongolia
+2029-01-01,4.277886286,Mongolia
+2030-01-01,4.351818325,Mongolia
+2021-01-01,0,Montenegro
+2022-01-01,0,Montenegro
+2023-01-01,0,Montenegro
+2024-01-01,0,Montenegro
+2025-01-01,0,Montenegro
+2026-01-01,0,Montenegro
+2027-01-01,0,Montenegro
+2028-01-01,0,Montenegro
+2029-01-01,0,Montenegro
+2030-01-01,0,Montenegro
+2021-01-01,0.002582268,Morocco
+2022-01-01,0.002413477,Morocco
+2023-01-01,0.002220399,Morocco
+2024-01-01,0.00200306,Morocco
+2025-01-01,0.001897904,Morocco
+2026-01-01,0.001729114,Morocco
+2027-01-01,0.001536036,Morocco
+2028-01-01,0.001318697,Morocco
+2029-01-01,0.001213541,Morocco
+2030-01-01,0.001044751,Morocco
+2021-01-01,0.123708117,Mozambique
+2022-01-01,0.149482562,Mozambique
+2023-01-01,0.175780254,Mozambique
+2024-01-01,0.202568528,Mozambique
+2025-01-01,0.121351883,Mozambique
+2026-01-01,0.147126328,Mozambique
+2027-01-01,0.17342402,Mozambique
+2028-01-01,0.200212294,Mozambique
+2029-01-01,0.118995649,Mozambique
+2030-01-01,0.144770094,Mozambique
+2021-01-01,-0.083183416,Myanmar
+2022-01-01,-0.121667931,Myanmar
+2023-01-01,-0.16213812,Myanmar
+2024-01-01,-0.204655221,Myanmar
+2025-01-01,-0.45005081,Myanmar
+2026-01-01,-0.488535325,Myanmar
+2027-01-01,-0.529005514,Myanmar
+2028-01-01,-0.571522615,Myanmar
+2029-01-01,-0.816918205,Myanmar
+2030-01-01,-0.855402719,Myanmar
+2021-01-01,0,Namibia
+2022-01-01,0,Namibia
+2023-01-01,0,Namibia
+2024-01-01,0,Namibia
+2025-01-01,0,Namibia
+2026-01-01,0,Namibia
+2027-01-01,0,Namibia
+2028-01-01,0,Namibia
+2029-01-01,0,Namibia
+2030-01-01,0,Namibia
+2021-01-01,0,Nauru
+2022-01-01,0,Nauru
+2023-01-01,0,Nauru
+2024-01-01,0,Nauru
+2025-01-01,0,Nauru
+2026-01-01,0,Nauru
+2027-01-01,0,Nauru
+2028-01-01,0,Nauru
+2029-01-01,0,Nauru
+2030-01-01,0,Nauru
+2021-01-01,0,Nepal
+2022-01-01,0,Nepal
+2023-01-01,0,Nepal
+2024-01-01,0,Nepal
+2025-01-01,0,Nepal
+2026-01-01,0,Nepal
+2027-01-01,0,Nepal
+2028-01-01,0,Nepal
+2029-01-01,0,Nepal
+2030-01-01,0,Nepal
+2021-01-01,0.022704808,Netherlands
+2022-01-01,0.025599708,Netherlands
+2023-01-01,0.028321978,Netherlands
+2024-01-01,0.030866858,Netherlands
+2025-01-01,0.017910153,Netherlands
+2026-01-01,0.020805054,Netherlands
+2027-01-01,0.023527323,Netherlands
+2028-01-01,0.026072204,Netherlands
+2029-01-01,0.013115498,Netherlands
+2030-01-01,0.016010399,Netherlands
+2021-01-01,0.267335618,New Zealand
+2022-01-01,0.30721673,New Zealand
+2023-01-01,0.348809468,New Zealand
+2024-01-01,0.392056571,New Zealand
+2025-01-01,0.245120446,New Zealand
+2026-01-01,0.285001558,New Zealand
+2027-01-01,0.326594296,New Zealand
+2028-01-01,0.369841399,New Zealand
+2029-01-01,0.222905275,New Zealand
+2030-01-01,0.262786386,New Zealand
+2021-01-01,0,Nicaragua
+2022-01-01,0,Nicaragua
+2023-01-01,0,Nicaragua
+2024-01-01,0,Nicaragua
+2025-01-01,0,Nicaragua
+2026-01-01,0,Nicaragua
+2027-01-01,0,Nicaragua
+2028-01-01,0,Nicaragua
+2029-01-01,0,Nicaragua
+2030-01-01,0,Nicaragua
+2021-01-01,2.816572311,Niger
+2022-01-01,2.966056992,Niger
+2023-01-01,3.130384247,Niger
+2024-01-01,3.309538773,Niger
+2025-01-01,3.421158267,Niger
+2026-01-01,3.570642948,Niger
+2027-01-01,3.734970203,Niger
+2028-01-01,3.914124729,Niger
+2029-01-01,4.025744223,Niger
+2030-01-01,4.175228904,Niger
+2021-01-01,5.427442788,Nigeria
+2022-01-01,5.234476321,Nigeria
+2023-01-01,5.061050663,Nigeria
+2024-01-01,4.906786323,Nigeria
+2025-01-01,3.476704831,Nigeria
+2026-01-01,3.283738364,Nigeria
+2027-01-01,3.110312706,Nigeria
+2028-01-01,2.956048366,Nigeria
+2029-01-01,1.525966874,Nigeria
+2030-01-01,1.333000407,Nigeria
+2021-01-01,0.359003275,North America
+2022-01-01,0.371203611,North America
+2023-01-01,0.383174535,North America
+2024-01-01,0.394902411,North America
+2025-01-01,0.361568177,North America
+2026-01-01,0.373768513,North America
+2027-01-01,0.385739437,North America
+2028-01-01,0.397467313,North America
+2029-01-01,0.364133079,North America
+2030-01-01,0.376333415,North America
+2021-01-01,0,North Macedonia
+2022-01-01,0,North Macedonia
+2023-01-01,0,North Macedonia
+2024-01-01,0,North Macedonia
+2025-01-01,0,North Macedonia
+2026-01-01,0,North Macedonia
+2027-01-01,0,North Macedonia
+2028-01-01,0,North Macedonia
+2029-01-01,0,North Macedonia
+2030-01-01,0,North Macedonia
+2021-01-01,0,Northern Mariana Islands
+2022-01-01,0,Northern Mariana Islands
+2023-01-01,0,Northern Mariana Islands
+2024-01-01,0,Northern Mariana Islands
+2025-01-01,0,Northern Mariana Islands
+2026-01-01,0,Northern Mariana Islands
+2027-01-01,0,Northern Mariana Islands
+2028-01-01,0,Northern Mariana Islands
+2029-01-01,0,Northern Mariana Islands
+2030-01-01,0,Northern Mariana Islands
+2021-01-01,3.334713091,Norway
+2022-01-01,3.221225762,Norway
+2023-01-01,3.089614227,Norway
+2024-01-01,2.93970997,Norway
+2025-01-01,2.240914717,Norway
+2026-01-01,2.127427387,Norway
+2027-01-01,1.995815853,Norway
+2028-01-01,1.845911595,Norway
+2029-01-01,1.147116342,Norway
+2030-01-01,1.033629012,Norway
+2021-01-01,0.304622964,OECD members
+2022-01-01,0.312306031,OECD members
+2023-01-01,0.319551049,OECD members
+2024-01-01,0.326343481,OECD members
+2025-01-01,0.285270392,OECD members
+2026-01-01,0.29295346,OECD members
+2027-01-01,0.300198477,OECD members
+2028-01-01,0.306990909,OECD members
+2029-01-01,0.26591782,OECD members
+2030-01-01,0.273600888,OECD members
+2021-01-01,25.14613969,Oman
+2022-01-01,24.29019696,Oman
+2023-01-01,23.36899086,Oman
+2024-01-01,22.38262828,Oman
+2025-01-01,21.77447654,Oman
+2026-01-01,20.9185338,Oman
+2027-01-01,19.99732771,Oman
+2028-01-01,19.01096513,Oman
+2029-01-01,18.40281339,Oman
+2030-01-01,17.54687065,Oman
+2021-01-01,10.66102691,Other small states
+2022-01-01,10.87522034,Other small states
+2023-01-01,11.08286404,Other small states
+2024-01-01,11.28358905,Other small states
+2025-01-01,10.26521617,Other small states
+2026-01-01,10.4794096,Other small states
+2027-01-01,10.6870533,Other small states
+2028-01-01,10.88777831,Other small states
+2029-01-01,9.869405421,Other small states
+2030-01-01,10.08359885,Other small states
+2021-01-01,0,Pacific island small states
+2022-01-01,0,Pacific island small states
+2023-01-01,0,Pacific island small states
+2024-01-01,0,Pacific island small states
+2025-01-01,0,Pacific island small states
+2026-01-01,0,Pacific island small states
+2027-01-01,0,Pacific island small states
+2028-01-01,0,Pacific island small states
+2029-01-01,0,Pacific island small states
+2030-01-01,0,Pacific island small states
+2021-01-01,0.515970906,Pakistan
+2022-01-01,0.527169121,Pakistan
+2023-01-01,0.537221987,Pakistan
+2024-01-01,0.546103417,Pakistan
+2025-01-01,0.469714303,Pakistan
+2026-01-01,0.480912518,Pakistan
+2027-01-01,0.490965384,Pakistan
+2028-01-01,0.499846814,Pakistan
+2029-01-01,0.4234577,Pakistan
+2030-01-01,0.434655915,Pakistan
+2021-01-01,0,Panama
+2022-01-01,0,Panama
+2023-01-01,0,Panama
+2024-01-01,0,Panama
+2025-01-01,0,Panama
+2026-01-01,0,Panama
+2027-01-01,0,Panama
+2028-01-01,0,Panama
+2029-01-01,0,Panama
+2030-01-01,0,Panama
+2021-01-01,-0.41439197,Papua New Guinea
+2022-01-01,-1.08108848,Papua New Guinea
+2023-01-01,-1.721994598,Papua New Guinea
+2024-01-01,-2.337047634,Papua New Guinea
+2025-01-01,-2.796640732,Papua New Guinea
+2026-01-01,-3.463337242,Papua New Guinea
+2027-01-01,-4.104243359,Papua New Guinea
+2028-01-01,-4.719296396,Papua New Guinea
+2029-01-01,-5.178889493,Papua New Guinea
+2030-01-01,-5.845586003,Papua New Guinea
+2021-01-01,0,Paraguay
+2022-01-01,0,Paraguay
+2023-01-01,0,Paraguay
+2024-01-01,0,Paraguay
+2025-01-01,0,Paraguay
+2026-01-01,0,Paraguay
+2027-01-01,0,Paraguay
+2028-01-01,0,Paraguay
+2029-01-01,0,Paraguay
+2030-01-01,0,Paraguay
+2021-01-01,0.093389063,Peru
+2022-01-01,0.081463985,Peru
+2023-01-01,0.066401763,Peru
+2024-01-01,0.048148849,Peru
+2025-01-01,-0.144233163,Peru
+2026-01-01,-0.156158241,Peru
+2027-01-01,-0.171220463,Peru
+2028-01-01,-0.189473377,Peru
+2029-01-01,-0.381855389,Peru
+2030-01-01,-0.393780467,Peru
+2021-01-01,0.135588828,Philippines
+2022-01-01,0.138862163,Philippines
+2023-01-01,0.142281189,Philippines
+2024-01-01,0.145835489,Philippines
+2025-01-01,0.114819517,Philippines
+2026-01-01,0.118092853,Philippines
+2027-01-01,0.121511878,Philippines
+2028-01-01,0.125066179,Philippines
+2029-01-01,0.094050207,Philippines
+2030-01-01,0.097323542,Philippines
+2021-01-01,0.049765333,Poland
+2022-01-01,0.049215352,Poland
+2023-01-01,0.048660021,Poland
+2024-01-01,0.048100416,Poland
+2025-01-01,0.051035552,Poland
+2026-01-01,0.050485571,Poland
+2027-01-01,0.049930239,Poland
+2028-01-01,0.049370635,Poland
+2029-01-01,0.05230577,Poland
+2030-01-01,0.05175579,Poland
+2021-01-01,0,Portugal
+2022-01-01,0,Portugal
+2023-01-01,0,Portugal
+2024-01-01,0,Portugal
+2025-01-01,0,Portugal
+2026-01-01,0,Portugal
+2027-01-01,0,Portugal
+2028-01-01,0,Portugal
+2029-01-01,0,Portugal
+2030-01-01,0,Portugal
+2021-01-01,0.233398082,Post-demographic dividend
+2022-01-01,0.239387333,Post-demographic dividend
+2023-01-01,0.245042149,Post-demographic dividend
+2024-01-01,0.250351623,Post-demographic dividend
+2025-01-01,0.219830306,Post-demographic dividend
+2026-01-01,0.225819557,Post-demographic dividend
+2027-01-01,0.231474373,Post-demographic dividend
+2028-01-01,0.236783847,Post-demographic dividend
+2029-01-01,0.20626253,Post-demographic dividend
+2030-01-01,0.212251781,Post-demographic dividend
+2021-01-01,11.8928307,Pre-demographic dividend
+2022-01-01,12.55268114,Pre-demographic dividend
+2023-01-01,13.23686161,Pre-demographic dividend
+2024-01-01,13.9444431,Pre-demographic dividend
+2025-01-01,11.55793337,Pre-demographic dividend
+2026-01-01,12.2177838,Pre-demographic dividend
+2027-01-01,12.90196427,Pre-demographic dividend
+2028-01-01,13.60954577,Pre-demographic dividend
+2029-01-01,11.22303603,Pre-demographic dividend
+2030-01-01,11.88288647,Pre-demographic dividend
+2021-01-01,0,Puerto Rico
+2022-01-01,0,Puerto Rico
+2023-01-01,0,Puerto Rico
+2024-01-01,0,Puerto Rico
+2025-01-01,0,Puerto Rico
+2026-01-01,0,Puerto Rico
+2027-01-01,0,Puerto Rico
+2028-01-01,0,Puerto Rico
+2029-01-01,0,Puerto Rico
+2030-01-01,0,Puerto Rico
+2021-01-01,13.44835358,Qatar
+2022-01-01,12.51602019,Qatar
+2023-01-01,11.55173466,Qatar
+2024-01-01,10.55529096,Qatar
+2025-01-01,8.899159269,Qatar
+2026-01-01,7.966825876,Qatar
+2027-01-01,7.002540345,Qatar
+2028-01-01,6.006096644,Qatar
+2029-01-01,4.349964957,Qatar
+2030-01-01,3.417631564,Qatar
+2021-01-01,0.244173702,Romania
+2022-01-01,0.199884361,Romania
+2023-01-01,0.154933998,Romania
+2024-01-01,0.109316416,Romania
+2025-01-01,0.041939119,Romania
+2026-01-01,-0.002350222,Romania
+2027-01-01,-0.047300585,Romania
+2028-01-01,-0.092918167,Romania
+2029-01-01,-0.160295464,Romania
+2030-01-01,-0.204584805,Romania
+2021-01-01,7.098845421,Russian Federation
+2022-01-01,7.045520963,Russian Federation
+2023-01-01,6.9169017,Russian Federation
+2024-01-01,6.71287897,Russian Federation
+2025-01-01,6.20297737,Russian Federation
+2026-01-01,6.149652911,Russian Federation
+2027-01-01,6.021033648,Russian Federation
+2028-01-01,5.817010919,Russian Federation
+2029-01-01,5.307109318,Russian Federation
+2030-01-01,5.253784859,Russian Federation
+2021-01-01,0,Rwanda
+2022-01-01,0,Rwanda
+2023-01-01,0,Rwanda
+2024-01-01,0,Rwanda
+2025-01-01,0,Rwanda
+2026-01-01,0,Rwanda
+2027-01-01,0,Rwanda
+2028-01-01,0,Rwanda
+2029-01-01,0,Rwanda
+2030-01-01,0,Rwanda
+2021-01-01,0,Samoa
+2022-01-01,0,Samoa
+2023-01-01,0,Samoa
+2024-01-01,0,Samoa
+2025-01-01,0,Samoa
+2026-01-01,0,Samoa
+2027-01-01,0,Samoa
+2028-01-01,0,Samoa
+2029-01-01,0,Samoa
+2030-01-01,0,Samoa
+2021-01-01,0,Sao Tome and Principe
+2022-01-01,0,Sao Tome and Principe
+2023-01-01,0,Sao Tome and Principe
+2024-01-01,0,Sao Tome and Principe
+2025-01-01,0,Sao Tome and Principe
+2026-01-01,0,Sao Tome and Principe
+2027-01-01,0,Sao Tome and Principe
+2028-01-01,0,Sao Tome and Principe
+2029-01-01,0,Sao Tome and Principe
+2030-01-01,0,Sao Tome and Principe
+2021-01-01,26.06271537,Saudi Arabia
+2022-01-01,26.29049604,Saudi Arabia
+2023-01-01,26.52999125,Saudi Arabia
+2024-01-01,26.77977434,Saudi Arabia
+2025-01-01,22.28434856,Saudi Arabia
+2026-01-01,22.51212922,Saudi Arabia
+2027-01-01,22.75162443,Saudi Arabia
+2028-01-01,23.00140753,Saudi Arabia
+2029-01-01,18.50598174,Saudi Arabia
+2030-01-01,18.73376241,Saudi Arabia
+2021-01-01,0,Senegal
+2022-01-01,0,Senegal
+2023-01-01,0,Senegal
+2024-01-01,0,Senegal
+2025-01-01,0,Senegal
+2026-01-01,0,Senegal
+2027-01-01,0,Senegal
+2028-01-01,0,Senegal
+2029-01-01,0,Senegal
+2030-01-01,0,Senegal
+2021-01-01,0.612387845,Serbia
+2022-01-01,0.612284135,Serbia
+2023-01-01,0.612546896,Serbia
+2024-01-01,0.613181649,Serbia
+2025-01-01,0.630708426,Serbia
+2026-01-01,0.630604715,Serbia
+2027-01-01,0.630867477,Serbia
+2028-01-01,0.631502229,Serbia
+2029-01-01,0.649029006,Serbia
+2030-01-01,0.648925296,Serbia
+2021-01-01,0,Seychelles
+2022-01-01,0,Seychelles
+2023-01-01,0,Seychelles
+2024-01-01,0,Seychelles
+2025-01-01,0,Seychelles
+2026-01-01,0,Seychelles
+2027-01-01,0,Seychelles
+2028-01-01,0,Seychelles
+2029-01-01,0,Seychelles
+2030-01-01,0,Seychelles
+2021-01-01,0,Sierra Leone
+2022-01-01,0,Sierra Leone
+2023-01-01,0,Sierra Leone
+2024-01-01,0,Sierra Leone
+2025-01-01,0,Sierra Leone
+2026-01-01,0,Sierra Leone
+2027-01-01,0,Sierra Leone
+2028-01-01,0,Sierra Leone
+2029-01-01,0,Sierra Leone
+2030-01-01,0,Sierra Leone
+2021-01-01,0,Singapore
+2022-01-01,0,Singapore
+2023-01-01,0,Singapore
+2024-01-01,0,Singapore
+2025-01-01,0,Singapore
+2026-01-01,0,Singapore
+2027-01-01,0,Singapore
+2028-01-01,0,Singapore
+2029-01-01,0,Singapore
+2030-01-01,0,Singapore
+2021-01-01,-0.001247682,Slovak Republic
+2022-01-01,-0.001812152,Slovak Republic
+2023-01-01,-0.002442608,Slovak Republic
+2024-01-01,-0.003139082,Slovak Republic
+2025-01-01,-0.003858436,Slovak Republic
+2026-01-01,-0.004422906,Slovak Republic
+2027-01-01,-0.005053363,Slovak Republic
+2028-01-01,-0.005749836,Slovak Republic
+2029-01-01,-0.006469191,Slovak Republic
+2030-01-01,-0.00703366,Slovak Republic
+2021-01-01,0.000108001,Slovenia
+2022-01-01,9.81E-05,Slovenia
+2023-01-01,8.73E-05,Slovenia
+2024-01-01,7.56E-05,Slovenia
+2025-01-01,8.52E-05,Slovenia
+2026-01-01,7.53E-05,Slovenia
+2027-01-01,6.45E-05,Slovenia
+2028-01-01,5.28E-05,Slovenia
+2029-01-01,6.24E-05,Slovenia
+2030-01-01,5.25E-05,Slovenia
+2021-01-01,9.325495103,Small states
+2022-01-01,9.573230345,Small states
+2023-01-01,9.815843022,Small states
+2024-01-01,10.05298463,Small states
+2025-01-01,9.139243477,Small states
+2026-01-01,9.386978718,Small states
+2027-01-01,9.629591395,Small states
+2028-01-01,9.866733001,Small states
+2029-01-01,8.95299185,Small states
+2030-01-01,9.200727092,Small states
+2021-01-01,0,Solomon Islands
+2022-01-01,0,Solomon Islands
+2023-01-01,0,Solomon Islands
+2024-01-01,0,Solomon Islands
+2025-01-01,0,Solomon Islands
+2026-01-01,0,Solomon Islands
+2027-01-01,0,Solomon Islands
+2028-01-01,0,Solomon Islands
+2029-01-01,0,Solomon Islands
+2030-01-01,0,Solomon Islands
+2021-01-01,-0.037833785,South Africa
+2022-01-01,-0.038075928,South Africa
+2023-01-01,-0.036629284,South Africa
+2024-01-01,-0.033505848,South Africa
+2025-01-01,-0.071704113,South Africa
+2026-01-01,-0.071946256,South Africa
+2027-01-01,-0.070499612,South Africa
+2028-01-01,-0.067376176,South Africa
+2029-01-01,-0.105574441,South Africa
+2030-01-01,-0.105816584,South Africa
+2021-01-01,0.329426492,South Asia
+2022-01-01,0.348016464,South Asia
+2023-01-01,0.367333043,South Asia
+2024-01-01,0.387311461,South Asia
+2025-01-01,0.192723793,South Asia
+2026-01-01,0.211313765,South Asia
+2027-01-01,0.230630344,South Asia
+2028-01-01,0.250608762,South Asia
+2029-01-01,0.056021094,South Asia
+2030-01-01,0.074611066,South Asia
+2021-01-01,0.329426492,South Asia (IDA & IBRD)
+2022-01-01,0.348016464,South Asia (IDA & IBRD)
+2023-01-01,0.367333043,South Asia (IDA & IBRD)
+2024-01-01,0.387311461,South Asia (IDA & IBRD)
+2025-01-01,0.192723793,South Asia (IDA & IBRD)
+2026-01-01,0.211313765,South Asia (IDA & IBRD)
+2027-01-01,0.230630344,South Asia (IDA & IBRD)
+2028-01-01,0.250608762,South Asia (IDA & IBRD)
+2029-01-01,0.056021094,South Asia (IDA & IBRD)
+2030-01-01,0.074611066,South Asia (IDA & IBRD)
+2021-01-01,-34.63232569,South Sudan
+2022-01-01,-40.57819204,South Sudan
+2023-01-01,-46.87963302,South Sudan
+2024-01-01,-53.53736684,South Sudan
+2025-01-01,-62.19801076,South Sudan
+2026-01-01,-68.1438771,South Sudan
+2027-01-01,-74.44531809,South Sudan
+2028-01-01,-81.10305191,South Sudan
+2029-01-01,-89.76369582,South Sudan
+2030-01-01,-95.70956217,South Sudan
+2021-01-01,0.003556059,Spain
+2022-01-01,0.003074702,Spain
+2023-01-01,0.002607838,Spain
+2024-01-01,0.002155966,Spain
+2025-01-01,0.003319413,Spain
+2026-01-01,0.002838055,Spain
+2027-01-01,0.002371191,Spain
+2028-01-01,0.001919319,Spain
+2029-01-01,0.003082766,Spain
+2030-01-01,0.002601408,Spain
+2021-01-01,0,Sri Lanka
+2022-01-01,0,Sri Lanka
+2023-01-01,0,Sri Lanka
+2024-01-01,0,Sri Lanka
+2025-01-01,0,Sri Lanka
+2026-01-01,0,Sri Lanka
+2027-01-01,0,Sri Lanka
+2028-01-01,0,Sri Lanka
+2029-01-01,0,Sri Lanka
+2030-01-01,0,Sri Lanka
+2021-01-01,0,St. Kitts and Nevis
+2022-01-01,0,St. Kitts and Nevis
+2023-01-01,0,St. Kitts and Nevis
+2024-01-01,0,St. Kitts and Nevis
+2025-01-01,0,St. Kitts and Nevis
+2026-01-01,0,St. Kitts and Nevis
+2027-01-01,0,St. Kitts and Nevis
+2028-01-01,0,St. Kitts and Nevis
+2029-01-01,0,St. Kitts and Nevis
+2030-01-01,0,St. Kitts and Nevis
+2021-01-01,0,St. Lucia
+2022-01-01,0,St. Lucia
+2023-01-01,0,St. Lucia
+2024-01-01,0,St. Lucia
+2025-01-01,0,St. Lucia
+2026-01-01,0,St. Lucia
+2027-01-01,0,St. Lucia
+2028-01-01,0,St. Lucia
+2029-01-01,0,St. Lucia
+2030-01-01,0,St. Lucia
+2021-01-01,0,St. Vincent and the Grenadines
+2022-01-01,0,St. Vincent and the Grenadines
+2023-01-01,0,St. Vincent and the Grenadines
+2024-01-01,0,St. Vincent and the Grenadines
+2025-01-01,0,St. Vincent and the Grenadines
+2026-01-01,0,St. Vincent and the Grenadines
+2027-01-01,0,St. Vincent and the Grenadines
+2028-01-01,0,St. Vincent and the Grenadines
+2029-01-01,0,St. Vincent and the Grenadines
+2030-01-01,0,St. Vincent and the Grenadines
+2021-01-01,4.265682543,Sub-Saharan Africa
+2022-01-01,4.520389407,Sub-Saharan Africa
+2023-01-01,4.779481503,Sub-Saharan Africa
+2024-01-01,5.042465605,Sub-Saharan Africa
+2025-01-01,3.670882516,Sub-Saharan Africa
+2026-01-01,3.925589379,Sub-Saharan Africa
+2027-01-01,4.184681476,Sub-Saharan Africa
+2028-01-01,4.447665578,Sub-Saharan Africa
+2029-01-01,3.076082489,Sub-Saharan Africa
+2030-01-01,3.330789352,Sub-Saharan Africa
+2021-01-01,4.265682543,Sub-Saharan Africa (IDA & IBRD countries)
+2022-01-01,4.520389407,Sub-Saharan Africa (IDA & IBRD countries)
+2023-01-01,4.779481503,Sub-Saharan Africa (IDA & IBRD countries)
+2024-01-01,5.042465605,Sub-Saharan Africa (IDA & IBRD countries)
+2025-01-01,3.670882516,Sub-Saharan Africa (IDA & IBRD countries)
+2026-01-01,3.925589379,Sub-Saharan Africa (IDA & IBRD countries)
+2027-01-01,4.184681476,Sub-Saharan Africa (IDA & IBRD countries)
+2028-01-01,4.447665578,Sub-Saharan Africa (IDA & IBRD countries)
+2029-01-01,3.076082489,Sub-Saharan Africa (IDA & IBRD countries)
+2030-01-01,3.330789352,Sub-Saharan Africa (IDA & IBRD countries)
+2021-01-01,4.267837531,Sub-Saharan Africa (excluding high income)
+2022-01-01,4.522260416,Sub-Saharan Africa (excluding high income)
+2023-01-01,4.78106714,Sub-Saharan Africa (excluding high income)
+2024-01-01,5.043764402,Sub-Saharan Africa (excluding high income)
+2025-01-01,3.671637518,Sub-Saharan Africa (excluding high income)
+2026-01-01,3.926060403,Sub-Saharan Africa (excluding high income)
+2027-01-01,4.184867127,Sub-Saharan Africa (excluding high income)
+2028-01-01,4.447564389,Sub-Saharan Africa (excluding high income)
+2029-01-01,3.075437505,Sub-Saharan Africa (excluding high income)
+2030-01-01,3.32986039,Sub-Saharan Africa (excluding high income)
+2021-01-01,1.200242747,Sudan
+2022-01-01,1.46585877,Sudan
+2023-01-01,1.702084629,Sudan
+2024-01-01,1.907832304,Sudan
+2025-01-01,-1.427469905,Sudan
+2026-01-01,-1.161853883,Sudan
+2027-01-01,-0.925628023,Sudan
+2028-01-01,-0.719880348,Sudan
+2029-01-01,-4.055182557,Sudan
+2030-01-01,-3.789566535,Sudan
+2021-01-01,4.768798314,Suriname
+2022-01-01,4.681833677,Suriname
+2023-01-01,4.598887563,Suriname
+2024-01-01,4.519853879,Suriname
+2025-01-01,4.083391757,Suriname
+2026-01-01,3.99642712,Suriname
+2027-01-01,3.913481006,Suriname
+2028-01-01,3.834447322,Suriname
+2029-01-01,3.3979852,Suriname
+2030-01-01,3.311020563,Suriname
+2021-01-01,0,Sweden
+2022-01-01,0,Sweden
+2023-01-01,0,Sweden
+2024-01-01,0,Sweden
+2025-01-01,0,Sweden
+2026-01-01,0,Sweden
+2027-01-01,0,Sweden
+2028-01-01,0,Sweden
+2029-01-01,0,Sweden
+2030-01-01,0,Sweden
+2021-01-01,0,Switzerland
+2022-01-01,0,Switzerland
+2023-01-01,0,Switzerland
+2024-01-01,0,Switzerland
+2025-01-01,0,Switzerland
+2026-01-01,0,Switzerland
+2027-01-01,0,Switzerland
+2028-01-01,0,Switzerland
+2029-01-01,0,Switzerland
+2030-01-01,0,Switzerland
+2021-01-01,48.20599135,Syrian Arab Republic
+2022-01-01,48.27006529,Syrian Arab Republic
+2023-01-01,48.55036361,Syrian Arab Republic
+2024-01-01,49.04837229,Syrian Arab Republic
+2025-01-01,54.16059138,Syrian Arab Republic
+2026-01-01,54.22466533,Syrian Arab Republic
+2027-01-01,54.50496364,Syrian Arab Republic
+2028-01-01,55.00297233,Syrian Arab Republic
+2029-01-01,60.11519141,Syrian Arab Republic
+2030-01-01,60.17926536,Syrian Arab Republic
+2021-01-01,0.059218344,Tajikistan
+2022-01-01,0.05708554,Tajikistan
+2023-01-01,0.054771913,Tajikistan
+2024-01-01,0.052273272,Tajikistan
+2025-01-01,0.03594462,Tajikistan
+2026-01-01,0.033811816,Tajikistan
+2027-01-01,0.031498189,Tajikistan
+2028-01-01,0.028999548,Tajikistan
+2029-01-01,0.012670896,Tajikistan
+2030-01-01,0.010538092,Tajikistan
+2021-01-01,0,Tanzania
+2022-01-01,0,Tanzania
+2023-01-01,0,Tanzania
+2024-01-01,0,Tanzania
+2025-01-01,0,Tanzania
+2026-01-01,0,Tanzania
+2027-01-01,0,Tanzania
+2028-01-01,0,Tanzania
+2029-01-01,0,Tanzania
+2030-01-01,0,Tanzania
+2021-01-01,0.846538831,Thailand
+2022-01-01,0.892463139,Thailand
+2023-01-01,0.939222402,Thailand
+2024-01-01,0.98674569,Thailand
+2025-01-01,0.799124749,Thailand
+2026-01-01,0.845049057,Thailand
+2027-01-01,0.89180832,Thailand
+2028-01-01,0.939331608,Thailand
+2029-01-01,0.751710668,Thailand
+2030-01-01,0.797634976,Thailand
+2021-01-01,19.38551635,Timor-Leste
+2022-01-01,21.00827683,Timor-Leste
+2023-01-01,22.58406651,Timor-Leste
+2024-01-01,24.11219834,Timor-Leste
+2025-01-01,23.46539529,Timor-Leste
+2026-01-01,25.08815576,Timor-Leste
+2027-01-01,26.66394545,Timor-Leste
+2028-01-01,28.19207727,Timor-Leste
+2029-01-01,27.54527422,Timor-Leste
+2030-01-01,29.16803469,Timor-Leste
+2021-01-01,0,Togo
+2022-01-01,0,Togo
+2023-01-01,0,Togo
+2024-01-01,0,Togo
+2025-01-01,0,Togo
+2026-01-01,0,Togo
+2027-01-01,0,Togo
+2028-01-01,0,Togo
+2029-01-01,0,Togo
+2030-01-01,0,Togo
+2021-01-01,0,Tonga
+2022-01-01,0,Tonga
+2023-01-01,0,Tonga
+2024-01-01,0,Tonga
+2025-01-01,0,Tonga
+2026-01-01,0,Tonga
+2027-01-01,0,Tonga
+2028-01-01,0,Tonga
+2029-01-01,0,Tonga
+2030-01-01,0,Tonga
+2021-01-01,2.228160017,Trinidad and Tobago
+2022-01-01,1.765757147,Trinidad and Tobago
+2023-01-01,1.273249203,Trinidad and Tobago
+2024-01-01,0.750742658,Trinidad and Tobago
+2025-01-01,0.585411648,Trinidad and Tobago
+2026-01-01,0.123008778,Trinidad and Tobago
+2027-01-01,-0.369499166,Trinidad and Tobago
+2028-01-01,-0.892005711,Trinidad and Tobago
+2029-01-01,-1.057336721,Trinidad and Tobago
+2030-01-01,-1.519739591,Trinidad and Tobago
+2021-01-01,2.018671073,Tunisia
+2022-01-01,2.099352808,Tunisia
+2023-01-01,2.181707645,Tunisia
+2024-01-01,2.265524485,Tunisia
+2025-01-01,1.65030785,Tunisia
+2026-01-01,1.730989586,Tunisia
+2027-01-01,1.813344423,Tunisia
+2028-01-01,1.897161262,Tunisia
+2029-01-01,1.281944628,Tunisia
+2030-01-01,1.362626364,Tunisia
+2021-01-01,0.079091529,Turkey
+2022-01-01,0.078054479,Turkey
+2023-01-01,0.076500517,Turkey
+2024-01-01,0.074430626,Turkey
+2025-01-01,0.075971716,Turkey
+2026-01-01,0.074934666,Turkey
+2027-01-01,0.073380704,Turkey
+2028-01-01,0.071310813,Turkey
+2029-01-01,0.072851903,Turkey
+2030-01-01,0.071814853,Turkey
+2021-01-01,4.517846827,Turkmenistan
+2022-01-01,3.928728247,Turkmenistan
+2023-01-01,3.30207767,Turkmenistan
+2024-01-01,2.637553492,Turkmenistan
+2025-01-01,0.866038289,Turkmenistan
+2026-01-01,0.276919709,Turkmenistan
+2027-01-01,-0.349730867,Turkmenistan
+2028-01-01,-1.014255046,Turkmenistan
+2029-01-01,-2.785770248,Turkmenistan
+2030-01-01,-3.374888829,Turkmenistan
+2021-01-01,0,Turks and Caicos Islands
+2022-01-01,0,Turks and Caicos Islands
+2023-01-01,0,Turks and Caicos Islands
+2024-01-01,0,Turks and Caicos Islands
+2025-01-01,0,Turks and Caicos Islands
+2026-01-01,0,Turks and Caicos Islands
+2027-01-01,0,Turks and Caicos Islands
+2028-01-01,0,Turks and Caicos Islands
+2029-01-01,0,Turks and Caicos Islands
+2030-01-01,0,Turks and Caicos Islands
+2021-01-01,0,Tuvalu
+2022-01-01,0,Tuvalu
+2023-01-01,0,Tuvalu
+2024-01-01,0,Tuvalu
+2025-01-01,0,Tuvalu
+2026-01-01,0,Tuvalu
+2027-01-01,0,Tuvalu
+2028-01-01,0,Tuvalu
+2029-01-01,0,Tuvalu
+2030-01-01,0,Tuvalu
+2021-01-01,0,Uganda
+2022-01-01,0,Uganda
+2023-01-01,0,Uganda
+2024-01-01,0,Uganda
+2025-01-01,0,Uganda
+2026-01-01,0,Uganda
+2027-01-01,0,Uganda
+2028-01-01,0,Uganda
+2029-01-01,0,Uganda
+2030-01-01,0,Uganda
+2021-01-01,0.244389989,Ukraine
+2022-01-01,0.232752515,Ukraine
+2023-01-01,0.217980095,Ukraine
+2024-01-01,0.200061423,Ukraine
+2025-01-01,0.146878576,Ukraine
+2026-01-01,0.135241102,Ukraine
+2027-01-01,0.120468683,Ukraine
+2028-01-01,0.10255001,Ukraine
+2029-01-01,0.049367164,Ukraine
+2030-01-01,0.03772969,Ukraine
+2021-01-01,16.95084602,United Arab Emirates
+2022-01-01,17.35147468,United Arab Emirates
+2023-01-01,17.76203569,United Arab Emirates
+2024-01-01,18.18177387,United Arab Emirates
+2025-01-01,16.0936996,United Arab Emirates
+2026-01-01,16.49432826,United Arab Emirates
+2027-01-01,16.90488927,United Arab Emirates
+2028-01-01,17.32462745,United Arab Emirates
+2029-01-01,15.23655318,United Arab Emirates
+2030-01-01,15.63718184,United Arab Emirates
+2021-01-01,0.375828795,United Kingdom
+2022-01-01,0.381311178,United Kingdom
+2023-01-01,0.385121694,United Kingdom
+2024-01-01,0.387236593,United Kingdom
+2025-01-01,0.312184244,United Kingdom
+2026-01-01,0.317666626,United Kingdom
+2027-01-01,0.321477142,United Kingdom
+2028-01-01,0.323592042,United Kingdom
+2029-01-01,0.248539692,United Kingdom
+2030-01-01,0.254022074,United Kingdom
+2021-01-01,0.281343405,United States
+2022-01-01,0.288925286,United States
+2023-01-01,0.29627631,United States
+2024-01-01,0.303389058,United States
+2025-01-01,0.285990766,United States
+2026-01-01,0.293572647,United States
+2027-01-01,0.300923671,United States
+2028-01-01,0.308036419,United States
+2029-01-01,0.290638127,United States
+2030-01-01,0.298220008,United States
+2021-01-01,1.624536369,Upper middle income
+2022-01-01,1.669947628,Upper middle income
+2023-01-01,1.714335097,Upper middle income
+2024-01-01,1.757498698,Upper middle income
+2025-01-01,1.139346893,Upper middle income
+2026-01-01,1.184758152,Upper middle income
+2027-01-01,1.22914562,Upper middle income
+2028-01-01,1.272309221,Upper middle income
+2029-01-01,0.654157416,Upper middle income
+2030-01-01,0.699568675,Upper middle income
+2021-01-01,0,Uruguay
+2022-01-01,0,Uruguay
+2023-01-01,0,Uruguay
+2024-01-01,0,Uruguay
+2025-01-01,0,Uruguay
+2026-01-01,0,Uruguay
+2027-01-01,0,Uruguay
+2028-01-01,0,Uruguay
+2029-01-01,0,Uruguay
+2030-01-01,0,Uruguay
+2021-01-01,-1.516572177,Uzbekistan
+2022-01-01,-1.65599404,Uzbekistan
+2023-01-01,-1.821649316,Uzbekistan
+2024-01-01,-2.013912522,Uzbekistan
+2025-01-01,-3.415918883,Uzbekistan
+2026-01-01,-3.555340747,Uzbekistan
+2027-01-01,-3.720996022,Uzbekistan
+2028-01-01,-3.913259229,Uzbekistan
+2029-01-01,-5.31526559,Uzbekistan
+2030-01-01,-5.454687454,Uzbekistan
+2021-01-01,0,Vanuatu
+2022-01-01,0,Vanuatu
+2023-01-01,0,Vanuatu
+2024-01-01,0,Vanuatu
+2025-01-01,0,Vanuatu
+2026-01-01,0,Vanuatu
+2027-01-01,0,Vanuatu
+2028-01-01,0,Vanuatu
+2029-01-01,0,Vanuatu
+2030-01-01,0,Vanuatu
+2021-01-01,7.773848992,"Venezuela, RB"
+2022-01-01,9.047926168,"Venezuela, RB"
+2023-01-01,10.31192783,"Venezuela, RB"
+2024-01-01,11.56346024,"Venezuela, RB"
+2025-01-01,4.987523482,"Venezuela, RB"
+2026-01-01,6.261600657,"Venezuela, RB"
+2027-01-01,7.525602316,"Venezuela, RB"
+2028-01-01,8.777134732,"Venezuela, RB"
+2029-01-01,2.201197972,"Venezuela, RB"
+2030-01-01,3.475275147,"Venezuela, RB"
+2021-01-01,0.356446538,Vietnam
+2022-01-01,0.26180984,Vietnam
+2023-01-01,0.17877012,Vietnam
+2024-01-01,0.106970667,Vietnam
+2025-01-01,-1.156988612,Vietnam
+2026-01-01,-1.25162531,Vietnam
+2027-01-01,-1.33466503,Vietnam
+2028-01-01,-1.406464483,Vietnam
+2029-01-01,-2.670423762,Vietnam
+2030-01-01,-2.76506046,Vietnam
+2021-01-01,0,Virgin Islands (U.S.)
+2022-01-01,0,Virgin Islands (U.S.)
+2023-01-01,0,Virgin Islands (U.S.)
+2024-01-01,0,Virgin Islands (U.S.)
+2025-01-01,0,Virgin Islands (U.S.)
+2026-01-01,0,Virgin Islands (U.S.)
+2027-01-01,0,Virgin Islands (U.S.)
+2028-01-01,0,Virgin Islands (U.S.)
+2029-01-01,0,Virgin Islands (U.S.)
+2030-01-01,0,Virgin Islands (U.S.)
+2021-01-01,0,West Bank and Gaza
+2022-01-01,0,West Bank and Gaza
+2023-01-01,0,West Bank and Gaza
+2024-01-01,0,West Bank and Gaza
+2025-01-01,0,West Bank and Gaza
+2026-01-01,0,West Bank and Gaza
+2027-01-01,0,West Bank and Gaza
+2028-01-01,0,West Bank and Gaza
+2029-01-01,0,West Bank and Gaza
+2030-01-01,0,West Bank and Gaza
+2021-01-01,1.556390651,World
+2022-01-01,1.622971455,World
+2023-01-01,1.690132947,World
+2024-01-01,1.757779631,World
+2025-01-01,1.508794382,World
+2026-01-01,1.575375185,World
+2027-01-01,1.642536677,World
+2028-01-01,1.710183362,World
+2029-01-01,1.461198112,World
+2030-01-01,1.527778916,World
+2021-01-01,-5.789623424,"Yemen, Rep."
+2022-01-01,-7.37643808,"Yemen, Rep."
+2023-01-01,-9.088629266,"Yemen, Rep."
+2024-01-01,-10.92697383,"Yemen, Rep."
+2025-01-01,-15.2187168,"Yemen, Rep."
+2026-01-01,-16.80553145,"Yemen, Rep."
+2027-01-01,-18.51772264,"Yemen, Rep."
+2028-01-01,-20.3560672,"Yemen, Rep."
+2029-01-01,-24.64781017,"Yemen, Rep."
+2030-01-01,-26.23462483,"Yemen, Rep."
+2021-01-01,0,Zambia
+2022-01-01,0,Zambia
+2023-01-01,0,Zambia
+2024-01-01,0,Zambia
+2025-01-01,0,Zambia
+2026-01-01,0,Zambia
+2027-01-01,0,Zambia
+2028-01-01,0,Zambia
+2029-01-01,0,Zambia
+2030-01-01,0,Zambia
+2021-01-01,0,Zimbabwe
+2022-01-01,0,Zimbabwe
+2023-01-01,0,Zimbabwe
+2024-01-01,0,Zimbabwe
+2025-01-01,0,Zimbabwe
+2026-01-01,0,Zimbabwe
+2027-01-01,0,Zimbabwe
+2028-01-01,0,Zimbabwe
+2029-01-01,0,Zimbabwe
+2030-01-01,0,Zimbabwe
